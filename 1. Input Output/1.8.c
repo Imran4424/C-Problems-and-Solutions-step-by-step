@@ -16,5 +16,5 @@ int main()
 }
 
 /*
-	Here %c is a format 
+	Here %c is a format specifier of char data type 
 */
