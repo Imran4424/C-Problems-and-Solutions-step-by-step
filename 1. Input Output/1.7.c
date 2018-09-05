@@ -26,15 +26,15 @@ int main()
 
 	by default printf() print the double number with 6 precision floating point.
 
-	but we can print our desired precision using %.<int number>f format 
+	but we can print our desired precision using %.<int number>lf format 
 
 	Example:
 
-			%.1f - 1 precision
-			%.2f - 2 precision
-			%.3f - 3 precision
-			%.4f - 4 precision
-			%.5f - 5 precision
+			%.1lf - 1 precision
+			%.2lf - 2 precision
+			%.3lf - 3 precision
+			%.4lf - 4 precision
+			%.5lf - 5 precision
 
 			and so on
 */
