@@ -33,4 +33,5 @@ int main()
 
 
 	here, decimal is equivalent to our int data type in C
+	so, for now 
 */
