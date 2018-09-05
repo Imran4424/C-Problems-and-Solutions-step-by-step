@@ -25,4 +25,8 @@ int main()
 
 	ASCII table
 
+	ascii table is a kind of table where all characters are listed 
+
+	along with their ed
+
 */
