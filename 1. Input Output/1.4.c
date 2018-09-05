@@ -26,7 +26,7 @@ int main()
 /*
 	here %f is the format specifier of float number
 
-	by default printf() print the float number with 6 precision floating point number.
+	by default printf() print the float number with 6 precision floating point 
 
 	but we can print our desired precision using %.<int number>f format 
 
