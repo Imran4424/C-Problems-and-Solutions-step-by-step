@@ -10,5 +10,7 @@ int main()
 
 	scanf("%c", &ch);
 
+	printf("%c\n", ch);
+
 	return 0;
 }
