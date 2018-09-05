@@ -19,6 +19,5 @@ int main()
 	Here %c is a format specifier of char data type
 
 	to see all character list 
-
-	go to the following link 
+	go to the following link. 
 */
