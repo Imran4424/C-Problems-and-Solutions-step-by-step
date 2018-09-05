@@ -21,6 +21,8 @@ int main()
 	to see all character list 
 	go to the following link. the link will take you to ascii table
 
+	http://www.asciitable.com/
 
-	
+	ASC
+
 */
