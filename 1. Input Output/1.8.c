@@ -6,7 +6,7 @@
 
 int main()
 {
-	char 
+	char ch;
 
 	return 0;
 }
