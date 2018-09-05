@@ -23,6 +23,6 @@ int main()
 
 	http://www.asciitable.com/
 
-	ASC
+	ASCII table
 
 */
