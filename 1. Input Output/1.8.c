@@ -32,5 +32,5 @@ int main()
 	along with their equivalent decimal, hexadecimal and octal numbers.
 
 
-	here, decimal is equivalent to our int data 
+	here, decimal is equivalent to our int data type in C
 */
