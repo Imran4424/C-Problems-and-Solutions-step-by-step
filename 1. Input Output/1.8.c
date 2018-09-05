@@ -25,8 +25,12 @@ int main()
 
 	ASCII table
 
+	ASCII stands for American Standard Code for Information Interchange.
+
 	ascii table is a kind of table where all characters are listed 
 
-	along with their ed
+	along with their equivalent decimal, hexadecimal and octal numbers.
 
+
+	here, decimal is equivalent to our int data 
 */
