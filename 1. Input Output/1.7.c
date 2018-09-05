@@ -8,7 +8,7 @@ int main()
 {
 	double number;
 
-	scanf("%d", &number);
+	scanf("%lf", &number);
 
 	printf("%lf\n", number); // default
 
