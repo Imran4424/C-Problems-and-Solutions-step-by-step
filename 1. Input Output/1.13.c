@@ -1,0 +1,3 @@
+/*
+	Write a program that read any decimal
+*/
