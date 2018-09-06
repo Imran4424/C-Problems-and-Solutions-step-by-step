@@ -8,6 +8,10 @@ int main()
 {
 	char ch;
 
+	scanf("%c", &ch);
+
+	ch = ch - 32 ;
+
 
 	return 0;
 }
