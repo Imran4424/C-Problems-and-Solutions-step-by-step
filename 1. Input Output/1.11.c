@@ -18,5 +18,7 @@ int main()
 }
 
 /*
-	
+	Here, Input: any lower case character, a-z
+
+		 Output: any upper case character, A-Z
 */
