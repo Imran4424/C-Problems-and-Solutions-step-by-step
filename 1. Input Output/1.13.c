@@ -16,5 +16,5 @@ int main()
 }
 
 /*
-	
+	here, format specifier for int or decimal is %d
 */
