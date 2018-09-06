@@ -20,5 +20,5 @@ int main()
 
 	then, show the equivalent ASCII value "printf("%d\n", ch);"
 
-	
+	because, we are %d not %c
 */
