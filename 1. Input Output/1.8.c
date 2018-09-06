@@ -19,7 +19,7 @@ int main()
 	Here %c is a format specifier of char data type
 
 	to see all character list 
-	go to the following link. the link will take you to ascii table
+	go to the following link. the link will take you to ASCII table
 
 	http://www.asciitable.com/
 
@@ -27,7 +27,7 @@ int main()
 
 	ASCII stands for American Standard Code for Information Interchange.
 
-	ascii table is a kind of table where all characters are listed 
+	ASCII table is a kind of table where all characters are listed 
 
 	along with their equivalent decimal, hexadecimal and octal numbers.
 
