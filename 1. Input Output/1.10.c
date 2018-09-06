@@ -1,0 +1,3 @@
+/*
+	Write a program that read any character and display the ASCII value
+*/
