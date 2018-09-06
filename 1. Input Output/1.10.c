@@ -8,7 +8,7 @@ int main()
 {
 	char ch;
 
-	scanf
+	scanf("%c", &ch);
 
 
 	return 0;
