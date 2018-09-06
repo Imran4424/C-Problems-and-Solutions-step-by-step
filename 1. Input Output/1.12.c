@@ -1,5 +1,5 @@
 /*
-	Write a program that read any lower case character and display in upper case
+	Write a program that read any upper case character and display in lower case
 */
 
 #include <stdio.h>
