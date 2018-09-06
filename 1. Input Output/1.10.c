@@ -16,5 +16,9 @@ int main()
 }
 
 /*
+	here, we read an character "scanf("%c", &ch);"
+
+	then, show the equivalent ASCII value "printf("%d\n", ch);"
+
 	
 */
