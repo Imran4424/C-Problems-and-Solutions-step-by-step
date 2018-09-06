@@ -20,5 +20,5 @@ int main()
 /*
 	Here, Input: any upper case character, A-Z
 
-		 Output: any upper case character, A-Z
+		 Output: any lower case character, A-Z
 */
