@@ -10,7 +10,7 @@ int main()
 
 	scanf("%c", &ch);
 
-	ch = ch - 32;
+	ch = ch + 32;
 
 	printf("%c\n", ch);
 
