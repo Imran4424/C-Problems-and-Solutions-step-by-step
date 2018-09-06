@@ -17,5 +17,5 @@ int main()
 
 /*
 	here, format specifier for int or decimal is %d
-		 format specifier for octal number is %
+		 format specifier for octal number is %o
 */
