@@ -6,7 +6,9 @@
 
 int main()
 {
-	
+	char ch;
+
+	scanf
 
 
 	return 0;
