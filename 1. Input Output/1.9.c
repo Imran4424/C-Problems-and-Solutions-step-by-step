@@ -16,7 +16,7 @@ int main()
 }
 
 /*
-	here, we an int number that is present in ASCII table
+	here, we read an int number that is present in ASCII table
 
 	but in printf() we are printing a character "%c" equivalent to that int number 
 */
