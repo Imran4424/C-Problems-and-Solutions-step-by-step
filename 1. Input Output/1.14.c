@@ -1,5 +1,5 @@
 /*
-
+	Write a program that read 
 */
 #include <stdio.h>
 
