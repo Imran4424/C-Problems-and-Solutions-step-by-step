@@ -1,5 +1,5 @@
 /*
-	Write a program that read any decimal number and display
+	Write a program that read any decimal number and display equivalent 
 */
 #include <stdio.h>
 
