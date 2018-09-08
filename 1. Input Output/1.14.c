@@ -15,5 +15,5 @@ int main()
 }
 
 /*
-	
+	for specifier of decimal number is
 */
