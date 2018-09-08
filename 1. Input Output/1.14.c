@@ -1,5 +1,5 @@
 /*
-	Write a program that read any decimal number
+	Write a program that read any decimal number and
 */
 #include <stdio.h>
 
