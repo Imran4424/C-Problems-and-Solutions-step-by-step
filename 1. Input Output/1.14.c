@@ -16,6 +16,7 @@ int main()
 
 /*
 	for specifier of decimal number is %d
+	
 	for specifier of hexadecimal number is %x for small letters
 	for specifier of hexadecimal number is %X for capital letters
 */
