@@ -1,3 +1,3 @@
 /*
-	Write a program that read any octal number
+	Write a program that read any octal number and di
 */
