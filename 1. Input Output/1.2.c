@@ -6,7 +6,7 @@
 
 int main()
 {
-	int n = 5;
+	int n = 5; // assigning 5 to int variable n
 
 	printf("%d\n", n);
 
