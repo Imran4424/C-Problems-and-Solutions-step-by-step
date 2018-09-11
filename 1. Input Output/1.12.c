@@ -14,7 +14,7 @@ int main()
 
 	ch = ch + 32;
 
-	printf("%c\n", ch);
+	printf("Equivalent lower case character is: %c\n", ch);
 
 	return 0;
 }
