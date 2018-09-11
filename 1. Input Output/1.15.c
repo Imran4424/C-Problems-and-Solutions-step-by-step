@@ -1,3 +1,3 @@
 /*
-	Write a program that read any octal number and display equivalent decimal 
+	Write a program that read any octal number and display equivalent decimal number
 */
