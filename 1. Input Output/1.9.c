@@ -13,7 +13,7 @@ int main()
 	scanf("%d", &num);
 
 
-	printf("%c\n", num);
+	printf("The equivalent character is: %c\n", num);
 
 	return 0;
 }
