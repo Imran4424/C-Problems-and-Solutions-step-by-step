@@ -12,3 +12,10 @@ int main()
 
 	return 0;
 }
+
+/*
+	for specifier of decimal number is %d
+	
+	for specifier of hexadecimal number is %x for small letters
+	
+*/
