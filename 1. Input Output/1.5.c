@@ -12,7 +12,7 @@ int main()
 
 	scanf("%ld", &num);
 
-	printf("%ld\n", num);
+	printf("The long number is: %ld\n", num);
 
 	return 0;
 }
