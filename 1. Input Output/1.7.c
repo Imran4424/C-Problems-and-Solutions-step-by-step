@@ -8,6 +8,8 @@ int main()
 {
 	double number;
 
+	printf("Enter any float number\n");
+
 	scanf("%lf", &number);
 
 	printf("%lf\n", number); // default
