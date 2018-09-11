@@ -6,6 +6,9 @@
 int main()
 {
 	int num;
+
+	printf("%s\n", );
+
 	scanf("%d", &num);
 
 	printf("%x\n", num);
