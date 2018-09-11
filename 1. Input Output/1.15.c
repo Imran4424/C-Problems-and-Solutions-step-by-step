@@ -1,3 +1,3 @@
 /*
-	Write a program that read 
+	Write a program that read any
 */
