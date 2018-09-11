@@ -6,6 +6,13 @@
 
 int main()
 {
+	int num;
+
+	printf("Enter the hexadecimal number\n");
+
+	scanf("%x", &num);
+
+	printf("The equivalent decimal number is: \n");
 
 	return 0;
 }
