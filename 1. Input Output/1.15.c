@@ -16,5 +16,5 @@ int main()
 /*
 	for specifier of decimal number is %d
 	
-	for specifier of  number is %o
+	for specifier of octal number is %o
 */
