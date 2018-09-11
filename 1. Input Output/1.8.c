@@ -12,7 +12,7 @@ int main()
 
 	scanf("%c", &ch);
 
-	printf("%c\n", ch);
+	printf("The character is: %c\n", ch);
 
 	return 0;
 }
