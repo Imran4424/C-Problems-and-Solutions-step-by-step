@@ -8,6 +8,8 @@ int main()
 {
 	char ch;
 
+	printf("Enter any upper case character\n");
+
 	scanf("%c", &ch);
 
 	ch = ch + 32;
