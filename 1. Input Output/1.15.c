@@ -12,7 +12,7 @@ int main()
 
 	scanf("%o", &num);
 
-	printf("%d\n", num);
+	printf("Equivalent decimal number is: %d\n", num);
 
 	return 0;
 }
