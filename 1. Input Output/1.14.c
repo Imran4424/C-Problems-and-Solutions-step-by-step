@@ -12,7 +12,7 @@ int main()
 	scanf("%d", &num);
 
 	printf("Equivalent hexadecimal small: %x\n", num);
-	printf("%X\n", num);
+	printf("Equivalent hexadecimal capital: %X\n", num);
 
 	return 0;
 }
