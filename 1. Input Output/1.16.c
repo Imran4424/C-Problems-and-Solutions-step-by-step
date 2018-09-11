@@ -1,3 +1,3 @@
 /*
-
+	Write a program that read any hexadecimal number
 */
