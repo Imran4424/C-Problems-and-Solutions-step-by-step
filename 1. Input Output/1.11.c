@@ -8,6 +8,8 @@ int main()
 {
 	char ch;
 
+	printf("Enter any lower\n");
+
 	scanf("%c", &ch);
 
 	ch = ch - 32;
