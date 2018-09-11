@@ -8,7 +8,7 @@ int main()
 {
 	char ch;
 
-	printf("Enter any lower\n");
+	printf("Enter any lower case character\n");
 
 	scanf("%c", &ch);
 
