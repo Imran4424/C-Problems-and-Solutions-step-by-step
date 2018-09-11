@@ -4,6 +4,9 @@
 
 int main()
 {
+	int num;
+
+	scanf("%o", &num);
 
 	return 0;
 }
