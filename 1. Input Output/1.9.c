@@ -7,6 +7,9 @@
 int main()
 {
 	int num;
+
+	printf("Enter any number\n");
+
 	scanf("%d", &num);
 
 
