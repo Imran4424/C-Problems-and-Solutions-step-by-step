@@ -12,7 +12,7 @@ int main()
 
 	scanf("%c", &ch);
 
-	printf("%d\n", ch);
+	printf("The equivalent int number is: %d\n", ch);
 
 	return 0;
 }
