@@ -11,7 +11,7 @@ int main()
 
 	scanf("%d", &num);
 
-	printf("%x\n", num);
+	printf("Equivalent hexadecimal small: %x\n", num);
 	printf("%X\n", num);
 
 	return 0;
