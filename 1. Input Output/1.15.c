@@ -2,6 +2,8 @@
 	Write a program that read any octal number and display equivalent decimal number
 */
 
+#include <stdio.h>
+
 int main()
 {
 	int num;
