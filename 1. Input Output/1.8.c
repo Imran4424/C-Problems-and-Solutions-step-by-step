@@ -8,7 +8,7 @@ int main()
 {
 	char ch;
 
-	
+	printf("Enter any character\n");
 
 	scanf("%c", &ch);
 
