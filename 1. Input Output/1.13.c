@@ -8,6 +8,8 @@ int main()
 {
 	int num;
 
+	printf("Enter an \n");
+
 	scanf("%d", &num);
 
 	printf("%o\n", num);
