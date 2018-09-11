@@ -8,6 +8,8 @@ int main()
 {
 	long num;
 
+	printf("Enter any long number\n");
+
 	scanf("%ld", &num);
 
 	printf("%ld\n", num);
