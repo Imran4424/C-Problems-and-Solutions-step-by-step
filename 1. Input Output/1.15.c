@@ -6,6 +6,8 @@ int main()
 {
 	int num;
 
+	printf("Enter any octal number\n");
+
 	scanf("%o", &num);
 
 	printf("%d\n", num);
