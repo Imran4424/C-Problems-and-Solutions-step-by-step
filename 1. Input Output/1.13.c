@@ -8,7 +8,7 @@ int main()
 {
 	int num;
 
-	printf("Enter an \n");
+	printf("Enter a decimal number\n");
 
 	scanf("%d", &num);
 
