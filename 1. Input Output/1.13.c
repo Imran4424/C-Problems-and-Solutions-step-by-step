@@ -12,7 +12,7 @@ int main()
 
 	scanf("%d", &num);
 
-	printf("%o\n", num);
+	printf("Equivalent octal number is: %o\n", num);
 
 	return 0;
 }
