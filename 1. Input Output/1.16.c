@@ -12,7 +12,8 @@ int main()
 
 	scanf("%x", &num);
 
-	printf("The equivalent decimal number is: \n");
+	printf("The equivalent decimal number is: %d\n", num);
 
 	return 0;
 }
+
