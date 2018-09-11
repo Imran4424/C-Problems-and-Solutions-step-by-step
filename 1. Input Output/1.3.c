@@ -7,7 +7,7 @@
 int main()
 {
 	int num;
-
+	
 	printf("Enter any int number\n");
 
 	scanf("%d", &num);
