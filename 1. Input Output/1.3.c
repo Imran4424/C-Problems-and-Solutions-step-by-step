@@ -7,12 +7,12 @@
 int main()
 {
 	int num;
-	
+
 	printf("Enter any int number\n");
 
 	scanf("%d", &num);
 
-	printf("%d\n", num);
+	printf("The int number is: %d\n", num);
 
 	return 0;
 }
