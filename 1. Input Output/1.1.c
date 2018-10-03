@@ -14,6 +14,6 @@ int main()
 }
 
 /*
-
+	here, printf is used in c for output stream
 
 */
