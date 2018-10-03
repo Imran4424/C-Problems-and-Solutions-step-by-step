@@ -21,5 +21,7 @@ int main()
 	scanf - input stream for c
 	printf - output stream for c
 
+	stdio.h - holds both scanf and printf
+
 	here %d is the format specifier of int number
 */
