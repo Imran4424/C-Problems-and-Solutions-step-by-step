@@ -18,5 +18,8 @@ int main()
 }
 
 /*
+	scanf - input stream for c
+	printf - output stream for c
+
 	here %d is the format specifier of int number
 */
