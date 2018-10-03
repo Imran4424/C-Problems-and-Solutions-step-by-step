@@ -17,5 +17,5 @@ int main()
 	here, printf is used in c for output stream
 	which is a member of stdio.h header file
 
-	'\n' is an escape
+	'\n' is an escape sequence 
 */
