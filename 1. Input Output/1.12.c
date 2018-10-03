@@ -20,6 +20,8 @@ int main()
 }
 
 /*
+	difference between uppercase and lower case in ASCII table is 32
+
 	Here, Input: any upper case character, A-Z
 
 		 Output: any lower case character, a-z
