@@ -8,3 +8,4 @@
 1.6. Write a program that read and display a long integer number
 1.7. Write a program that read and display double number
 1.8. Write a program that read and display any character
+1.9. Write a program that read ASCII value and display equivalent character
