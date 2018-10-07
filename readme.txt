@@ -6,3 +6,4 @@
 1.4. Write a program that read and display floating point number
 1.5. Write a program that read and display a long number
 1.6. Write a program that read and display a long integer number
+1.7. Write a program that read and display double number
