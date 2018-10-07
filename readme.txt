@@ -4,5 +4,5 @@
 1.2. An integer variable contains 5. Write a program that prints value of n
 1.3. Write a program that read and display an integer number
 1.4. Write a program that read and display floating point number
-1.5. Write a program that read and display an long number
-1.6.
+1.5. Write a program that read and display long number
+1.6. 
