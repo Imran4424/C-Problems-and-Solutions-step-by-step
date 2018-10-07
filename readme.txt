@@ -7,3 +7,4 @@
 1.5. Write a program that read and display a long number
 1.6. Write a program that read and display a long integer number
 1.7. Write a program that read and display double number
+1.8. Write a program that read and display any character
