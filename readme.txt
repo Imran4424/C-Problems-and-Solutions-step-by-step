@@ -104,14 +104,18 @@
 6. Series
 
 6.1. Write a program to calculate the series: 1 + 2 + 3 + 4 + ... + n
-6.1. Write a program to calculate the series: 2 + 4 + 6 + 8 + ... + n
-6.1. Write a program to calculate the series: 1 + 3 + 5 + 7 + ... + n
-6.1. Write a program to calculate the series: 4 + 12 + 20 + 28 + ... + n
-6.1. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
+6.2. Write a program to calculate the series: 2 + 4 + 6 + 8 + ... + n
+6.3. Write a program to calculate the series: 1 + 3 + 5 + 7 + ... + n
+6.4. Write a program to calculate the series: 4 + 12 + 20 + 28 + ... + n
+6.5. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
 
-6.1. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n
-6.1. Write a program to calculate the series: 2.1 + 5.3 + 8.5 + ... + n
-6.1. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n
+6.6. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n
+6.7. Write a program to calculate the series: 2.1 + 5.3 + 8.5 + ... + n
+6.8. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n
 
-6.1. Write a program to calculate the series: 1^2 + 2^2 + 3^2 + ... + n
+6.1. Write a program to calculate the series: 1^2 + 2^2 + 3^2 + ... + n^2
+6.1. Write a program to calculate the series: 1^2 + 3^2 + 5^2 + ... + n^2
+6.1. Write a program to calculate the series: 1^3 + 2^3 + 3^3 + ... + n^3
+6.1. Write a program to calculate the series: 1^1 + 2^2 + 3^3 + ... + n^n
+
 6.1. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n
