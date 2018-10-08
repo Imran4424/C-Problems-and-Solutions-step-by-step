@@ -10,3 +10,6 @@
 1.8. Write a program that read and display any character
 1.9. Write a program that read ASCII value and display equivalent character
 1.10. Wrtie a program that read any character and display equivalent ASCII value
+1.11. Write a program that read any lower case character and display in upper case
+1.12. Write a program that read any upper case character and display in lower case
+1.13. 
