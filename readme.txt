@@ -34,3 +34,7 @@
 2.2. Write a program that subtracts two integers
 2.3. Write a program that read two integers and display product
 2.4. Write a program that read two integers and divide them
+2.5. Write a program that read two floating point numbers and divide them
+2.6. Write a program that read two integer and display remainder
+
+2.7. 
