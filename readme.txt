@@ -188,3 +188,10 @@
 		C C C
 		D D D D 
 		E E E E E
+
+7.10.
+		A
+		A B
+		A B C
+		A B C D
+		A B C D E
