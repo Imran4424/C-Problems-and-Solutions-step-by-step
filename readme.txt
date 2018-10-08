@@ -119,3 +119,7 @@
 6.12. Write a program to calculate the series: 1^1 + 2^2 + 3^3 + ... + n^n
 
 6.1. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.5^2 + ... + n.n^2
+6.1. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.4^2 + ... + n.n^2
+
+6.1. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n.n.n
+
