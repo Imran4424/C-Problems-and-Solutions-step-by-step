@@ -74,4 +74,4 @@
 3.15. Write a program that read any number and display it's square root
 3.16. Write a program that read any number x and display e^x
 3.17. Write a program that read any number x and display log(x)
-3.18. Write a program 
+3.18. Write a program that read any number x and display log10(x)
