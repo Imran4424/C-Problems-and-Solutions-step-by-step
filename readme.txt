@@ -118,11 +118,11 @@
 6.11. Write a program to calculate the series: 1^3 + 2^3 + 3^3 + ... + n^3
 6.12. Write a program to calculate the series: 1^1 + 2^2 + 3^3 + ... + n^n
 
-6.1. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.5^2 + ... + n.n^2
-6.1. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.4^2 + ... + n.n^2
+6.13. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.5^2 + ... + n.n^2
+6.14. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.4^2 + ... + n.n^2
 
-6.1. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n.n.n
-6.1. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n.n.n
-6.1. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n.n.n
+6.15. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n.n.n
+6.16. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n.n.n
+6.17. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n.n.n
 
-6.1. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n.n.n.n
+6.18. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n.n.n.n
