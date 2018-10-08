@@ -122,4 +122,6 @@
 6.1. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.4^2 + ... + n.n^2
 
 6.1. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n.n.n
+6.1. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n.n.n
+6.1. Write a program to calculate the series: 5.6.7 + 6.3.4 + 3.4.5 + ... + n.n.n
 
