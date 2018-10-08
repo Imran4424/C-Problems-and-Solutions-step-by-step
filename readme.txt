@@ -21,3 +21,6 @@
 
 1.17. Write a program that read and display your name
 1.18. Write a program that read and display a line of text
+1.19. Write a program that read any date in the format DD/MM/YYYY and displays day, month and year separately
+1.20. Write a program that read any date in the format DD-MM-YYYY and displays day, month and year separately
+1.21
