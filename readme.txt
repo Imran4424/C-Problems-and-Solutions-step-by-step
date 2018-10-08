@@ -98,4 +98,4 @@
 5. Switch
 
 5.1. Write a program that read a digit and diplay by spelling
-5.2. Write a program that read any number and display equivalent romana number
+5.2. Write a program that read any number and display equivalent roman number
