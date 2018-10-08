@@ -62,3 +62,16 @@
 3.5. Write a program that read any angle t and display cot(t)
 3.6. Write a program that read any angle t and display sec(t)
 3.7. Write a program that read any angle t and display cosec(t)
+
+3.8. Write a program that read a value n and display sin inverse(n)
+3.9. Write a program that read a value n and display cos inverse(n)
+3.10. Write a program that read a value n and display tan inverse(n)
+3.11. Write a program that read a value n and display cot inverse(n)
+3.12. Write a program that read a value n and display sec inverse(n)
+3.13. Write a program that read a value n and display cosec inverse(n)
+
+3.14. Write a program that read two numbers x,y and display the value of X^Y
+3.15. Write a program that read any number and display it's square root
+3.16. Write a program that read any number x and display e^x
+3.17. Write a program that read any number x and display log(x)
+3.18. 
