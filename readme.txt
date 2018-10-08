@@ -41,3 +41,4 @@
 2.8. Write a program that read temperature in Celsius and display in Farenheit
 2.9. Write a program that read temperature in Farenheit and display in Celsius
 
+2.10. Write a program that read two numbers and display bitwise AND
