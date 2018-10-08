@@ -55,4 +55,10 @@
 3. Math.h
 
 3.1. Write a program that read any integer number and display absolute value
-3.2.
+
+3.2. Write a program that read any angle t and display sin(t)
+3.3. Write a program that read any angle t and display cos(t)
+3.4. Write a program that read any angle t and display tan(t)
+3.5. Write a program that read any angle t and display cot(t)
+3.6. Write a program that read any angle t and display sec(t)
+3.7. Write a program that read any angle t and display cosec(t)
