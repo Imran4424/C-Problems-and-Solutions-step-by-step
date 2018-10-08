@@ -89,4 +89,8 @@
 
 4.7. Write a program that read mark and display pass or fail
 4.8. Write a program that read mark and display result in division
-4.9. Write a program read any year and display its leap year or not
+4.9. Write a program that read any year and display its leap year or not
+4.10. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
+			ax^2 + bx + c = 0
+
+
