@@ -37,4 +37,6 @@
 2.5. Write a program that read two floating point numbers and divide them
 2.6. Write a program that read two integer and display remainder
 
-2.7. 
+2.7. Write a program that read radius of a circle and display the area
+2.8. Write a program that read temperature in Celsius and display in Farenheit
+2.9. Write a program that read temperature in Farenheit and display in Celsius
