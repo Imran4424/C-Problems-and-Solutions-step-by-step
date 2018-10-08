@@ -88,4 +88,4 @@
 4.6. Write a program that read three numbers and display medium
 
 4.7. Write a program that read mark and display pass or fail
-4.8. 
+4.8. Write a program that read mark and display result in division
