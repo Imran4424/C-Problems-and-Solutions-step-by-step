@@ -105,3 +105,7 @@
 
 6.1. Write a program to calculate the series: 1 + 2 + 3 + 4 + ... + n
 6.1. Write a program to calculate the series: 2 + 4 + 6 + 8 + ... + n
+6.1. Write a program to calculate the series: 1 + 3 + 5 + 7 + ... + n
+6.1. Write a program to calculate the series: 4 + 12 + 20 + 28 + ... + n
+6.1. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
+6.1. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n
