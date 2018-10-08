@@ -33,3 +33,4 @@
 2.1. Write a program that read two integer and display sum
 2.2. Write a program that subtracts two integers
 2.3. Write a program that read two integers and display product
+2.4. Write a program that read two integers and divide them
