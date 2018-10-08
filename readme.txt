@@ -19,4 +19,4 @@
 1.15. Write a program that read any octal number and display equivalent decimal number
 1.16. Write a program that read any hexadecimal number and display equivalent decimal number
 
-1.17.
+1.17. Write a program that read and display your name
