@@ -43,4 +43,8 @@
 
 2.10. Write a program that read two numbers and display bitwise AND
 2.11. Write a program that read two numbers and display bitwise OR
-2.11. Write a program that read two numbers and display bitwise Exclusive OR
+2.12. Write a program that read two numbers and display bitwise Exclusive OR
+
+2.13. Write a program that read a number and divide by two using shift operator
+2.14. Write a program that read a number and multiply by two using shift operator
+2.15. Write a program that read a number and multiply by five using shift operator
