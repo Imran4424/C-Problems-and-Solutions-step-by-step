@@ -80,4 +80,9 @@
 4. Conditional Logic
 
 4.1. Write a program that read an integer and prints odd or even
+
 4.2. Write a program that read two numbers and display maximum
+4.3. Write a program that read two numbers and display minimum
+4.4. Write a program that read three numbers and display maximum
+4.5. Write a program that read three numbers and display minimum
+4.6. Write a program that read three numbers and display medium
