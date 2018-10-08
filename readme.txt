@@ -125,3 +125,4 @@
 6.1. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n.n.n
 6.1. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n.n.n
 
+6.1. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n.n.n.n
