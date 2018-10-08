@@ -50,3 +50,8 @@
 2.15. Write a program that read a number and multiply by five using shift operator
 2.16. Write a program that read a number and mod by four using bitwise AND
 2.17. Write a program that read a number and mod by eight using bitwise AND
+
+
+3. Math.h
+
+3.1.
