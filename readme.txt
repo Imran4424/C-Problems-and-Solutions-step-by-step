@@ -86,3 +86,5 @@
 4.4. Write a program that read three numbers and display maximum
 4.5. Write a program that read three numbers and display minimum
 4.6. Write a program that read three numbers and display medium
+
+4.7.
