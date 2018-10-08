@@ -80,4 +80,4 @@
 4. Conditional Logic
 
 4.1. Write a program that read an integer and prints odd or even
-4.2.
+4.2. Write a program that read two numbers and display maximum
