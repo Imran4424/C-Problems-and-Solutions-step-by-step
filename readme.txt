@@ -20,3 +20,4 @@
 1.16. Write a program that read any hexadecimal number and display equivalent decimal number
 
 1.17. Write a program that read and display your name
+1.18. Write a program that read and display a line of text
