@@ -48,3 +48,5 @@
 2.13. Write a program that read a number and divide by two using shift operator
 2.14. Write a program that read a number and multiply by two using shift operator
 2.15. Write a program that read a number and multiply by five using shift operator
+2.16. Write a program that read a number and mod by four using bitwise AND
+2.17. Write a program that read a number and mod by eight using bitwise AND
