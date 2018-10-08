@@ -26,3 +26,8 @@
 1.20. Write a program that read any date in the format DD-MM-YYYY and displays day, month and year separately
 1.21. Write a program that read any date in the format DD MM YYYY and displays day, month and year separately
 1.22. Write a program that read any date in the format DD,MM,YYYY and displays day, month and year separately
+
+
+2. Operator
+
+2.1
