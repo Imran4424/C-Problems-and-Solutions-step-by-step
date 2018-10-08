@@ -79,4 +79,5 @@
 
 4. Conditional Logic
 
-4.1. W
+4.1. Write a program that read an integer and prints odd or even
+4.2.
