@@ -260,3 +260,8 @@
 		A
 
 7.20.
+		A B C D E
+		A B C D
+		A B C
+		A B
+		A
