@@ -351,3 +351,5 @@
 			  C C C
 			   B B
 				A
+
+1 space between digits
