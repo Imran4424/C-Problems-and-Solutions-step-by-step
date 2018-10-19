@@ -364,3 +364,5 @@
 			C   C   C
 			  B   B
 				A
+
+3 space between digits
