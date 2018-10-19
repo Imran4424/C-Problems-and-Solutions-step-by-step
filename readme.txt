@@ -328,3 +328,5 @@
 		  D   D   D   D
 		E   E   E   E   E
 
+3 space between digits
+
