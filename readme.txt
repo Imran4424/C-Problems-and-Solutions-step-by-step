@@ -322,4 +322,9 @@
 1 space between digits
 
 7.26.2.
+				A
+				B   B
+				C   C   C
+				D   D   D   D
+				E   E   E   E   E
 				
