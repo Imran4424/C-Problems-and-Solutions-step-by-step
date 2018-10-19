@@ -303,7 +303,7 @@
 
 1 space between digits
 
-7.25.2
+7.25.2.
 				1
 			  2   2
 			3   3   3
@@ -320,3 +320,5 @@
 			E E E E E
 
 1 space between digits
+
+7.26.2.
