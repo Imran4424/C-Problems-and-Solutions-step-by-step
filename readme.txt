@@ -340,3 +340,14 @@
 				C C C
 				B B
 				A
+
+7.27.
+				A
+				B B
+				C C C 
+				D D D D
+				E E E E E
+				D D D D
+				C C C
+				B B
+				A
