@@ -318,3 +318,5 @@
 			  C C C
 			 D D D D
 			E E E E E
+
+1 space between digits
