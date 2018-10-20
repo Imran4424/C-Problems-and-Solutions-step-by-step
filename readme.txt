@@ -448,6 +448,8 @@
 						2   3   2
 						1
 
+3 space between digits
+
 7.35.
 										1
 									2   3   2
