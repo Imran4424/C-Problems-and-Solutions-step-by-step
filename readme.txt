@@ -533,4 +533,5 @@
 
 8.  Loop
 
-8.1. 
+8.1. Write a program that read a positive integer and display its factorial
+8.2. W
