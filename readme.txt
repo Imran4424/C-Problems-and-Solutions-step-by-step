@@ -538,3 +538,4 @@
 8.3. Write a program that read any positive integer and display reverse
 5.4. Write a program that read any decimal number and display equivalent binary number
 5.5. Write a program that read any decimal number and display equivalent octal number
+5.6. Write a program that read any decimal number and display equivalent hexadecimal number
