@@ -551,4 +551,4 @@
 5.11. Write a program that read two numbers(n,r) and display nCr(Combination)
 
 5.12. Write a program that read any integer and display its digital root (using loop)
-5.13. 
+5.13. Write a program that read any integer and test that is prime or not
