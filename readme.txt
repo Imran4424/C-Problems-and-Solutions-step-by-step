@@ -562,4 +562,4 @@
 8.19. Write a program that displays all fibonacci numbers from 1 to n
 8.20. Write a program that determine a number fibonacci or not
 
-10. One Dimensional Array
+9. One Dimensional Array
