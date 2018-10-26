@@ -539,25 +539,27 @@
 8.2. Write a program that read a positive integer and display sum of its digit
 8.3. Write a program that read any positive integer and display reverse
 
-5.4. Write a program that read any decimal number and display equivalent binary number
-5.5. Write a program that read any decimal number and display equivalent octal number
-5.6. Write a program that read any decimal number and display equivalent hexadecimal number
+8.4. Write a program that read any decimal number and display equivalent binary number
+8.5. Write a program that read any decimal number and display equivalent octal number
+8.6. Write a program that read any decimal number and display equivalent hexadecimal number
 
-5.7. Write a program that read two numbers and display GCD(greatest common divisor)
-5.8. Write a program that read two numbers and display LCM(least common multiple)
-5.9. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
+8.7. Write a program that read two numbers and display GCD(greatest common divisor)
+8.8. Write a program that read two numbers and display LCM(least common multiple)
+8.9. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
 
-5.10. Write a program that read two numbers(n,r) and display nPr(Permutation) 
-5.11. Write a program that read two numbers(n,r) and display nCr(Combination)
+8.10. Write a program that read two numbers(n,r) and display nPr(Permutation) 
+8.11. Write a program that read two numbers(n,r) and display nCr(Combination)
 
-5.12. Write a program that read any integer and display its digital root (using loop)
-5.13. Write a program that read any integer and test that is prime or not
+8.12. Write a program that read any integer and display its digital root (using loop)
+8.13. Write a program that read any integer and test that is prime or not
 
-5.14. Write a program that prints all prime numbers from 1 to n
-5.15. Write a program that prints all prime numbers from m to n (m > n)
-5.16. Write a program that count total prime numbers from 1 to n
+8.14. Write a program that prints all prime numbers from 1 to n
+8.15. Write a program that prints all prime numbers from m to n (m > n)
+8.16. Write a program that count total prime numbers from 1 to n
 
-5.17. Write a program that displays first n prime numbers.
-5.18. Write a program that displays first n Fibonacci
-5.19. Write a program that displays all fibonacci numbers from 1 to n
-5.20. Write a program that determine a number fibonacci or not
+8.17. Write a program that displays first n prime numbers.
+8.18. Write a program that displays first n Fibonacci
+8.19. Write a program that displays all fibonacci numbers from 1 to n
+8.20. Write a program that determine a number fibonacci or not
+
+10. One Dimensional Array
