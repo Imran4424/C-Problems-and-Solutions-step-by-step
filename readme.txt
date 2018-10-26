@@ -532,6 +532,7 @@
 			1   5  10  10   5   1
 			1   6  15  20  15   6   1
 
+3 space between digits
 
 8.  Loop
 
