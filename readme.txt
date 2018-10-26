@@ -547,4 +547,5 @@
 5.8. Write a program that read two numbers and display LCM(least common multiple)
 5.9. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
 
-5.10. Write a program that read two numbers(n,r) and display nPr(Permutation) 
+5.10. Write a program that read two numbers(n,r) and display nPr(Permutation)
+5.11. 
