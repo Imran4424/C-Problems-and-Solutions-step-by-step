@@ -65,6 +65,5 @@ int main()
 
     Another way to accomplish conditional logic
 
-    this is useful when cases are so many that if-else 
-
+    this is useful when cases are so many that if-else will be a long code
 */
