@@ -60,3 +60,9 @@ int main()
 
     return 0;
 }
+/*
+    this is switch case
+
+    Another way to accomplish conditional logic
+
+*/
