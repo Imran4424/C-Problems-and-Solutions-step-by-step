@@ -522,7 +522,6 @@
 
 3 space between digits
 
-
 7.39.
 			1
 			1   1
@@ -549,4 +548,7 @@
 5.9. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
 
 5.10. Write a program that read two numbers(n,r) and display nPr(Permutation) 
-5.11. Write a program that read two numbers(n,r) and display nCr(Combination) 
+5.11. Write a program that read two numbers(n,r) and display nCr(Combination)
+
+5.12. Write a program that read any integer and display its digital root (using loop)
+5.13. 
