@@ -556,3 +556,8 @@
 5.14. Write a program that prints all prime numbers from 1 to n
 5.15. Write a program that prints all prime numbers from m to n (m > n)
 5.16. Write a program that count total prime numbers from 1 to n
+
+5.17. Write a program that displays first n prime numbers.
+5.18. Write a program that displays first n Fibonacci
+5.19. Write a program that displays all fibonacci numbers from 1 to n
+5.20. Write a program that determine a number fibonacci or not
