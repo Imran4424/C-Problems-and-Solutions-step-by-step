@@ -537,3 +537,4 @@
 8.2. Write a program that read a positive integer and display sum of its digit
 8.3. Write a program that read any positive integer and display reverse
 5.4. Write a program that read any decimal number and display equivalent binary number
+5.5. Write a program that read any decimal number and display equivalent octal number
