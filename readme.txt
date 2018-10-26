@@ -88,7 +88,7 @@
 4.6. Write a program that read three numbers and display medium
 
 4.7. Write a program that read mark and display pass or fail
-4.8. Write a program that read mark and display result in division
+4.8. Write a program that read mark and display result in grade
 4.9. Write a program that read any year and display its leap year or not
 4.10. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
 			ax^2 + bx + c = 0
@@ -536,6 +536,7 @@
 8.1. Write a program that read a positive integer and display its factorial
 8.2. Write a program that read a positive integer and display sum of its digit
 8.3. Write a program that read any positive integer and display reverse
+
 5.4. Write a program that read any decimal number and display equivalent binary number
 5.5. Write a program that read any decimal number and display equivalent octal number
 5.6. Write a program that read any decimal number and display equivalent hexadecimal number
