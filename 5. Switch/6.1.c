@@ -1,6 +1,5 @@
 /*
-
-
+    Write a program that read a digit and diplay by spelling
 */
 
 #include <stdio.h>
