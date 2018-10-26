@@ -542,3 +542,6 @@
 5.4. Write a program that read any decimal number and display equivalent binary number
 5.5. Write a program that read any decimal number and display equivalent octal number
 5.6. Write a program that read any decimal number and display equivalent hexadecimal number
+
+5.7. Write a program that read two numbers and display GCD(greatest common divisor)
+5.8. Write a program that read two numbers and display LCM(least common multiple)
