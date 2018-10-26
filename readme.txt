@@ -552,3 +552,7 @@
 
 5.12. Write a program that read any integer and display its digital root (using loop)
 5.13. Write a program that read any integer and test that is prime or not
+
+5.14. Write a program that prints all prime numbers from 1 to n
+5.15. Write a program that prints all prime numbers from m to n (m > n)
+5.16. Write a program that count total prime numbers from 1 to n
