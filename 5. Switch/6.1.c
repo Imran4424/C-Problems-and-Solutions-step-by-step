@@ -6,11 +6,11 @@
 
 int main()
 {
-    int n;
+    int num;
 
-    scanf("%d",&n);
+    scanf("%d", &num);
 
-    switch(n)
+    switch(num)
     {
         case 1:
             printf("one");
@@ -64,5 +64,7 @@ int main()
     this is switch case
 
     Another way to accomplish conditional logic
+
+    this is useful when cases are so many that if-else 
 
 */
