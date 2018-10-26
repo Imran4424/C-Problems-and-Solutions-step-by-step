@@ -535,3 +535,4 @@
 
 8.1. Write a program that read a positive integer and display its factorial
 8.2. Write a program that read a positive integer and display sum of its digit
+8.3. Write a program that read any positive integer and display reverse
