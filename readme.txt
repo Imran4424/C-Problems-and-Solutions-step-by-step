@@ -316,7 +316,7 @@
 3 space between digits
 
 7.26.
-				A
+			    A
 			   B B
 			  C C C
 			 D D D D
@@ -325,9 +325,9 @@
 1 space between digits
 
 7.26.2.
-				A
-			  B   B
-			C   C   C
+			A
+		      B   B
+		    C   C   C
 		  D   D   D   D
 		E   E   E   E   E
 
@@ -345,7 +345,7 @@
 				A
 
 7.28.
-				A
+			    A
 			   B B
 			  C C C 
 			 D D D D
@@ -353,25 +353,25 @@
 			 D D D D
 			  C C C
 			   B B
-				A
+			    A
 
 1 space between digits
 
 7.28.2.
-				A
-			  B   B
-			C   C   C
+			A
+		      B   B
+		    C   C   C
 		  D   D   D   D
 		E   E   E   E   E
 		  D   D   D   D
-			C   C   C
-			  B   B
-				A
+		    C   C   C
+		      B   B
+			A
 
 3 space between digits
 
 7.29.
-				1
+			    1
 			   2 2
 			  3 3 3
 			 4 4 4 4
@@ -379,19 +379,19 @@
 			 4 4 4 4
 			  3 3 3
 			   2 2
-				1
+			    1
 				
 1 space between digits
 
 7.29.2.
 				1
-			  2   2
+			    2   2
 			3   3   3
-		  4   4   4   4
+		    4   4   4   4
 		5   5   5   5   5
-		  4   4   4   4
+		    4   4   4   4
 			3   3   3
-			  2   2
+			    2   2
 				1
 
 3 space between digits
@@ -408,33 +408,33 @@
 		1
 
 7.31.
-				1
-			  2 2
-			3 3 3
+			1
+		      2 2
+		    3 3 3
 		  4 4 4 4
 		5 5 5 5 5
 		  4 4 4 4
-			3 3 3
-			  2 2
-				1
+		    3 3 3
+		      2 2
+			1
 
 7.32.
-				1
-			  1 2 1
-			1 2 3 2 1
+			1
+		      1 2 1
+		    1 2 3 2 1
 		  1 2 3 4 3 2 1
 		1 2 3 4 5 4 3 2 1
 
 7.33.
-				1
-			  1 2 1
-			1 2 3 2 1
+			1
+		      1 2 1
+		    1 2 3 2 1
 		  1 2 3 4 3 2 1
 		1 2 3 4 5 4 3 2 1
 		  1 2 3 4 3 2 1
-			1 2 3 2 1
-			  1 2 1
-				1
+		    1 2 3 2 1
+		      1 2 1
+			1
 
 7.34.
 						1
