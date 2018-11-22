@@ -572,3 +572,4 @@
 9.3. Write a program that read an array and display average
 9.4. Write a program that read an array and display maximum
 9.5. Write a program that read an array and display minimum
+9.6. Write a program that inserts any number in an array
