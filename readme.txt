@@ -111,9 +111,9 @@
 6.4. Write a program to calculate the series: 4 + 12 + 20 + 28 + ... + n
 6.5. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
 
-6.6. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n
+6.6. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n(n+1)
 6.7. Write a program to calculate the series: 2.1 + 5.3 + 8.5 + ... + n
-6.8. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n
+6.8. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n(n+2)
 
 6.9. Write a program to calculate the series: 1^2 + 2^2 + 3^2 + ... + n^2
 6.10. Write a program to calculate the series: 1^2 + 3^2 + 5^2 + ... + n^2
@@ -123,11 +123,11 @@
 6.13. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.5^2 + ... + n.n^2
 6.14. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.4^2 + ... + n.n^2
 
-6.15. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n.n.n
-6.16. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n.n.n
-6.17. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n.n.n
+6.15. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n(n+1)(n+2)
+6.16. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n(n+3)(n+6)
+6.17. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n(n+1)(n+2)
 
-6.18. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n.n.n.n
+6.18. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n(n+2)(n+4)(n+6)
 
 
 7. Pyramid
