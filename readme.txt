@@ -575,5 +575,5 @@
 9.5. Write a program that read an array and display minimum
 
 9.6. Write a program that inserts any number in an array
-9.7. Write a program that deletes any number from the array
-9.8.
+9.7. Write a program that deletes any number from an array
+9.8. Write a program that searches any number from an array
