@@ -28,6 +28,7 @@
 1.22. Write a program that read any date in the format DD,MM,YYYY and displays day, month and year separately
 
 
+
 2. Operator
 
 2.1. Write a program that read two integer and display sum
@@ -51,6 +52,7 @@
 
 2.16. Write a program that read a number and mod by four using bitwise AND
 2.17. Write a program that read a number and mod by eight using bitwise AND
+
 
 
 3. Math.h
@@ -78,6 +80,7 @@
 3.18. Write a program that read any number x and display log10(x)
 
 
+
 4. Conditional Logic
 
 4.1. Write a program that read an integer and prints odd or even
@@ -101,6 +104,7 @@
 
 5.1. Write a program that read a digit and diplay by spelling
 5.2. Write a program that read any number and display equivalent roman number
+
 
 
 6. Series
@@ -128,6 +132,7 @@
 6.17. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n(n+1)(n+2)
 
 6.18. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n(n+2)(n+4)(n+6)
+
 
 
 7. Pyramid
@@ -536,6 +541,8 @@
 
 3 space between digits
 
+
+
 8.  Loop
 
 8.1. Write a program that read a positive integer and display its factorial
@@ -565,6 +572,8 @@
 8.19. Write a program that displays all fibonacci numbers from 1 to n
 8.20. Write a program that determine a number fibonacci or not
 
+
+
 9. One Dimensional Array
 
 9.1. Write a program that read and display an array
@@ -585,3 +594,9 @@
 
 9.12. Write a program that display first n fibonacci numbers using array
 9.13. Write a program that display first n prime numbers using array
+
+9.14. Write a program that reads any decimal number and display equivalent binary number
+
+
+
+10. Multi Dimentional Array
