@@ -577,3 +577,7 @@
 9.6. Write a program that inserts any number in an array
 9.7. Write a program that deletes any number from an array
 9.8. Write a program that searches any number from an array
+
+9.9. Write a program that read and sort an array using bubble sort in ascending order
+9.10. Write a program that read and sort an array using bubble sort in decending order
+
