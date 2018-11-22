@@ -569,6 +569,6 @@
 
 9.1. Write a program that read and display an array
 9.2. Write a program that read an array and display sum
-9.2. Write a program that read an array and display average
-9.2. Write a program that read an array and display maximum
-9.2. Write a program that read an array and display minimum
+9.3. Write a program that read an array and display average
+9.4. Write a program that read an array and display maximum
+9.5. Write a program that read an array and display minimum
