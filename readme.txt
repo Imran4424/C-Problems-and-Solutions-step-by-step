@@ -637,6 +637,8 @@
 12.3. Write a program that converts a line to uppercase.
 12.4. Write a program that converts a line to lowercase.
 
+12.5. Write a program that read a line of text and display it's length
+12.6. Write a program that read a line of text and display it in reverse order
 
 12. String.h
 
