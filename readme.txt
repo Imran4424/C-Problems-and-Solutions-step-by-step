@@ -640,5 +640,18 @@
 12.5. Write a program that read a line of text and display it's length
 12.6. Write a program that read a line of text and display it in reverse order
 
+12.7. Write a program that read your name and display every character with one space
+12.8. Write a program that read your name and display every character with one space in reverse order
+
+12.9. Write a program that read any line of text and display every character in separate line
+12.10. Write a program that read any line of text and display every character with ASCII value in separate line
+
+12.11. Write a program that read any line of text and display number of uppercase, lowercase, digits, spaces and
+       other characters
+12.12. Write a program that read any line of text and display number of vowels, consonants, digits, spaces and
+       other characters
+
+12.13.
+
 12. String.h
 
