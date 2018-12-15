@@ -98,6 +98,8 @@
 4.10. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
 			ax^2 + bx + c = 0
 
+4.11. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should
+      be checked
 
 
 5. Switch
@@ -572,10 +574,6 @@
 8.19. Write a program that displays all fibonacci numbers from 1 to n
 8.20. Write a program that determine a number fibonacci or not
 
-8.21. Write down a program that can take a lower bound i and an upper bound n and then find out the summation of
-     all odd numbers from i to n.
-
-
 9. goto, break, continue
 
 
@@ -593,16 +591,21 @@
 
 10.8. Write a program that searches any number from an array
 
-10.9. Write a program that read and sort an array using bubble sort in ascending order
-10.10. Write a program that read and sort an array using bubble sort in decending order
+10.9. write a program that read and sort an array in ascending order
+10.10. write a program that read and sort an array in decending order
 
-10.11. Write a program that read an array and display medium
+10.11. Write a program that read and sort an array using bubble sort in ascending order
+10.12. Write a program that read and sort an array using bubble sort in decending order
 
-10.12. Write a program that display first n fibonacci numbers using array
-10.13. Write a program that display first n prime numbers using array
+10.13. Write a program that read an array and display medium
 
-10.14. Write a program that reads any decimal number and display equivalent binary number
+10.14. Write a program that display first n fibonacci numbers using array
+10.15. Write a program that display first n prime numbers using array
+
+10.16. Write a program that reads any decimal number and display equivalent binary number
 
 
 
 11. Multi Dimentional Array
+
+11.1.
