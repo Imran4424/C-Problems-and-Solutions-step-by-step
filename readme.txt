@@ -627,3 +627,13 @@
 
 
 3 spaces between 1 digits number, 2 spaces between 2 digits number
+
+
+12. String
+
+12.1. Write a program that displays a string (single word)
+12.2. Write a program that displays a string (single or multiple words)
+
+
+12. String.h
+
