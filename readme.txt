@@ -608,4 +608,22 @@
 
 11. Multi Dimentional Array
 
-11.1.
+11.1. Write a program that read and display read and display a 2D array
+11.2. Write a program that read and display read and display a matrix
+
+11.3. Write a program that adds two matrices
+11.4. Write a program that substract two matrices
+11.5. Write a program that multiply two matrices
+
+11.6. Write a program that add and multiply two matrices
+
+11.7. Write a program that displays Pascal Pyramid
+
+	1
+	2   1
+	3   3   1
+	4   6   4   1
+	5  10  10   5   1
+
+
+3 spaces between 1 digits number, 2 spaces between 2 digits number
