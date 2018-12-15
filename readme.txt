@@ -597,7 +597,7 @@
 10.11. Write a program that read and sort an array using bubble sort in ascending order
 10.12. Write a program that read and sort an array using bubble sort in decending order
 
-10.13. Write a program that read an array and display medium
+10.13. Write a program that read an array and display median
 
 10.14. Write a program that display first n fibonacci numbers using array
 10.15. Write a program that display first n prime numbers using array
