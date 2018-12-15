@@ -572,6 +572,11 @@
 8.19. Write a program that displays all fibonacci numbers from 1 to n
 8.20. Write a program that determine a number fibonacci or not
 
+8.21. Write down a program that can take a lower bound i and an upper bound n and then find out the summation of
+     all odd numbers from i to n.
+
+
+9. goto, break, continue
 
 
 10. One Dimensional Array
