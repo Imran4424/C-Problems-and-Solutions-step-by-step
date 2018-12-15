@@ -547,6 +547,12 @@
 
 8.  Loop
 
+8.1. Write down a program that can take a lower bound i and an upper bound n and then find out the summation of
+     those numbers which are divisible by 2 from i to n.
+
+8.1. Write down a program that can take a lower bound i and an upper bound n and then find out the summation of
+     those numbers which are divisible by 3 from i to n.
+
 8.1. Write a program that read a positive integer and display its factorial
 8.2. Write a program that read a positive integer and display sum of its digit
 8.3. Write a program that read any positive integer and display reverse
