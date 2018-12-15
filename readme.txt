@@ -632,7 +632,10 @@
 12. String
 
 12.1. Write a program that displays a string (single word)
-12.2. Write a program that displays a string (single or multiple words)
+12.2. Write a program that displays a string (a line)
+
+12.3. Write a program that converts a line to uppercase.
+12.4. Write a program that converts a line to lowercase.
 
 
 12. String.h
