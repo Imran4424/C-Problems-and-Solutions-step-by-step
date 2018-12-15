@@ -648,10 +648,13 @@
 
 12.11. Write a program that read any line of text and display number of uppercase, lowercase, digits, spaces and
        other characters
+
 12.12. Write a program that read any line of text and display number of vowels, consonants, digits, spaces and
        other characters
 
-12.13.
+12.13. Write a program that read a line of text and displays the frequency of every character
+
+12.14. Write a program that read and display and array of string
 
 12. String.h
 
