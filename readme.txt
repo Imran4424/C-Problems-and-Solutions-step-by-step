@@ -654,7 +654,12 @@
 
 12.13. Write a program that read a line of text and displays the frequency of every character
 
-12.14. Write a program that read and display and array of string
+12.14. Write a program that read and display an array of string
+
+12.15. Write a program that read and display an array of strings with alphabetic order (without case sensitive)
+12.16. Write a program that read and display an array of strings with alphabetic order (with case sensitive)
+
+12.17. Write a program that read any binary number and display equivalent decimal number
 
 12. String.h
 
