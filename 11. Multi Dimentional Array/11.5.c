@@ -35,7 +35,7 @@ int main(int argc, char const *argv[])
 	{
 		for (int j = 0; j < b_col; ++j)
 		{
-			c[i][j] = 0
+			c[i][j] = 0;
 
 			for (int k = 0; k < b_row; ++k)
 			{
@@ -47,12 +47,14 @@ int main(int argc, char const *argv[])
 
 	// Display
 
-	for (int i = 0; i < b_row; ++i)
+	for (int i = 0; i < a_row; ++i)
 	{
 		for (int j = 0; j < b_col; ++j)
 		{
 			printf("%d ", c[i][j]);
 		}
+
+		printf("\n");
 	}
 
 	return 0;
