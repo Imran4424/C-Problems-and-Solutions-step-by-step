@@ -22,7 +22,7 @@ int main(int argc, char const *argv[])
 	{
 		for (int j = 0; j < col; j++)
 		{
-			printf("ar[i][j]: ");
+			printf("ar[%d][%d]: ", i, j);
 			scanf("%d", &ar[i][j]);
 			printf("\n");
 		}
