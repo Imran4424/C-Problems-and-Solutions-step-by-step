@@ -696,3 +696,5 @@
 14.10. Write a function that gets three integers and returns median
 
 14.11. Write a function that gets length and width of a rectangle and returns area
+14.12. Write a function that gets radius of a circle and returns area
+14.12. Write a function that gets any positive integer and returns it's factorial
