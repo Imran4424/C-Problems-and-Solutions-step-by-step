@@ -680,4 +680,9 @@
 
 14. Function
 
-14.1. 
+14.1. Write a function that gets two integers and display Addition
+14.2. Write a function that gets two integers and display Addition, substraction , multipication
+14.3. Write a function that gets two integers and display Division
+14.4. Write a function that gets two integers and returns Addition
+14.5. Write a separate function that gets two integers and returns Addition, substraction , multipication,
+      division
