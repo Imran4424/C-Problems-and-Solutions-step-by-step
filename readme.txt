@@ -693,4 +693,5 @@
 
 14.8. Write a function that gets three integers and returns maximum
 14.9. Write a function that gets three integers and returns minimum
+14.10. Write a function that gets three integers and returns median
 
