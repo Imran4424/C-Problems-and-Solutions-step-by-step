@@ -683,9 +683,14 @@
 14.1. Write a function that gets two integers and display Addition
 14.2. Write a function that gets two integers and display Addition, substraction , multipication
 14.3. Write a function that gets two integers and display Division
+
 14.4. Write a function that gets two integers and returns Addition
 14.5. Write a separate function that gets two integers and returns Addition, substraction , multipication,
       division
+
 14.6. Write a function that gets two integers and returns maximum
 14.7. Write a function that gets two integers and returns minimum
+
+14.8. Write a function that gets three integers and returns maximum
+14.9. Write a function that gets three integers and returns minimum
 
