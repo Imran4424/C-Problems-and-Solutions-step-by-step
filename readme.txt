@@ -676,3 +676,8 @@
 13.6. Write a program that read a line of text and display in uppercase 
 13.7. Write a program that compares two strings
 13.8. Write a program that compares two strings without case sensitivity
+
+
+14. Function
+
+14.1. 
