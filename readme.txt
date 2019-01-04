@@ -695,3 +695,4 @@
 14.9. Write a function that gets three integers and returns minimum
 14.10. Write a function that gets three integers and returns median
 
+14.11. Write a function that gets length and width of a rectangle and returns area
