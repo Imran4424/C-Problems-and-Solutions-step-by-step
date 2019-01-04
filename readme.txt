@@ -666,5 +666,6 @@
 12.16. Write a program that read and display an array of strings with alphabetic order (with case sensitive)
 
 
-12. String.h
+13. String.h
 
+13.1. 
