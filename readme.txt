@@ -668,4 +668,11 @@
 
 13. String.h
 
-13.1. 
+13.1. Write a program that read a line of text and display it's length
+13.2. Write a program that read a line of text and display it in reverse order
+13.3. Write a program that read two lines of text and copy second line into first line
+13.4. Write a program that read two lines of text and add second line with first line
+13.5. Write a program that read a line of text and display in lowercase 
+13.6. Write a program that read a line of text and display in uppercase 
+13.7. Write a program that compares two strings
+13.8. Write a program that compares two strings without case sensitivity
