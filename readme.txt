@@ -709,6 +709,10 @@
 14.12. Write a function that gets radius of a circle and returns area
 
 14.13. Write a function that gets any positive integer and returns it's factorial
-14.13. Write a function that gets any positive integer and returns it's digital sum
-14.13. Write a function that gets any positive integer and returns it's digital root
-14.13. Write a function that gets any positive integer and returns it's reverse
+14.14. Write a function that gets any positive integer and returns it's digital sum
+14.15. Write a function that gets any positive integer and returns it's digital root
+14.16. Write a function that gets any positive integer and returns it's reverse
+
+14.16. Write a function that gets any positive integer and determine it's prime or not
+
+
