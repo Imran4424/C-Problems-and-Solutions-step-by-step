@@ -666,20 +666,24 @@
 12.16. Write a program that compares two strings
 12.17. Write a program that compares two strings without case sensitivity
 
-12.14. Write a program that read and display an array of string
+12.18. Write a program that read and display an array of string
 
-12.15. Write a program that read and display an array of strings with alphabetic order (without case sensitive)
-12.16. Write a program that read and display an array of strings with alphabetic order (with case sensitive)
+12.19. Write a program that read and display an array of strings with alphabetic order (without case sensitive)
+12.20. Write a program that read and display an array of strings with alphabetic order (with case sensitive)
 
 
 13. String.h
 
 13.1. Write a program that read a line of text and display it's length
+
 13.2. Write a program that read a line of text and display it in reverse order
+
 13.3. Write a program that read two lines of text and copy second line into first line
 13.4. Write a program that read two lines of text and add second line with first line
+
 13.5. Write a program that read a line of text and display in lowercase 
 13.6. Write a program that read a line of text and display in uppercase 
+
 13.7. Write a program that compares two strings
 13.8. Write a program that compares two strings without case sensitivity
 
