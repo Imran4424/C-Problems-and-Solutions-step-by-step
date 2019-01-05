@@ -663,8 +663,8 @@
 12.14. Write a program that read two lines of text and copy second line into first line
 12.15. Write a program that read two lines of text and add second line with first line
 
-13.7. Write a program that compares two strings
-13.8. Write a program that compares two strings without case sensitivity
+12.16. Write a program that compares two strings
+12.17. Write a program that compares two strings without case sensitivity
 
 12.14. Write a program that read and display an array of string
 
