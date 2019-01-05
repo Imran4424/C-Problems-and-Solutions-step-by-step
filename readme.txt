@@ -724,5 +724,13 @@
 14.22. Write a function that gets two positive integer and returns LCM (least common multiple)
 
 14.23. Write a function that gets an array and returns sum
+14.24. Write a function that gets an array and returns average
+14.25. Write a function that gets an array and returns maximum
+14.26. Write a function that gets an array and returns minimum
 
+14.27. Write a function that searches any number in an array
+14.28. Write a function that sorts an array Ascending
+14.28. Write a function that sorts an array Decending
+
+14.28. Write a function that gets a string and returns it's length
 
