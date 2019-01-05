@@ -717,10 +717,12 @@
 
 14.18. Write a function that gets two positive integer(a,b) and returns a to the power b
 
-14.18. Write a function that gets two positive integer and returns nPr (Permutation)
-14.18. Write a function that gets two positive integer and returns nCr (Combination)
+14.19. Write a function that gets two positive integer and returns nPr (Permutation)
+14.20. Write a function that gets two positive integer and returns nCr (Combination)
 
-14.18. Write a function that gets two positive integer and returns GCD (greatest common divisor)
-14.18. Write a function that gets two positive integer and returns LCM (least common multiple)
+14.21. Write a function that gets two positive integer and returns GCD (greatest common divisor)
+14.22. Write a function that gets two positive integer and returns LCM (least common multiple)
+
+14.23. Write a function that gets an array and returns sum
 
 
