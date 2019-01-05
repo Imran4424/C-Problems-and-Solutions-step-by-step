@@ -713,6 +713,10 @@
 14.15. Write a function that gets any positive integer and returns it's digital root
 14.16. Write a function that gets any positive integer and returns it's reverse
 
-14.16. Write a function that gets any positive integer and determine it's prime or not
+14.17. Write a function that gets any positive integer and determine it's prime or not
+
+14.18. Write a function that gets two positive integer(a,b) and returns a to the power b
+
+14.18. Write a function that gets two positive integer and returns nPr (Permutation)
 
 
