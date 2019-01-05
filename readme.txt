@@ -709,3 +709,4 @@
 14.12. Write a function that gets radius of a circle and returns area
 
 14.13. Write a function that gets any positive integer and returns it's factorial
+14.13. Write a function that gets any positive integer and returns it's digital sum
