@@ -19,13 +19,16 @@
 1.15. Write a program that read any octal number and display equivalent decimal number
 1.16. Write a program that read any hexadecimal number and display equivalent decimal number
 
-1.17. Write a program that read and display your name
-1.18. Write a program that read and display a line of text
+1.17. Write a program that read as many characters as need to read your name and display the characters 
+      sequencially without spaces
 
-1.19. Write a program that read any date in the format DD/MM/YYYY and displays day, month and year separately
-1.20. Write a program that read any date in the format DD-MM-YYYY and displays day, month and year separately
-1.21. Write a program that read any date in the format DD MM YYYY and displays day, month and year separately
-1.22. Write a program that read any date in the format DD,MM,YYYY and displays day, month and year separately
+1.18. Write a program that read and display your name
+1.19. Write a program that read and display a line of text
+
+1.20. Write a program that read any date in the format DD/MM/YYYY and displays day, month and year separately
+1.21. Write a program that read any date in the format DD-MM-YYYY and displays day, month and year separately
+1.22. Write a program that read any date in the format DD MM YYYY and displays day, month and year separately
+1.23. Write a program that read any date in the format DD,MM,YYYY and displays day, month and year separately
 
 
 
@@ -690,47 +693,78 @@
 
 14. Function
 
-14.1. Write a function that gets two integers and display Addition
-14.2. Write a function that gets two integers and display Addition, substraction , multipication
-14.3. Write a function that gets two integers and display Division
+14.1.1. Write a function that reads two integers and display Addition
+14.1.2. Write a function that reads two integers and returns Addition
+14.1.3. Write a function that gets two integers and display Addition
+14.1.3. Write a function that gets two integers and returns Addition
 
-14.4. Write a function that gets two integers and returns Addition
-14.5. Write a separate function that gets two integers and returns Addition, substraction , multipication,
-      division
+14.2.1. Write a function that reads two integers and display Substraction
+14.2.2. Write a function that reads two integers and returns Substraction
+14.2.3. Write a function that gets two integers and display Substraction
+14.2.3. Write a function that gets two integers and returns Substraction
 
-14.6. Write a function that gets two integers and returns maximum
-14.7. Write a function that gets two integers and returns minimum
+14.3.1. Write a function that reads two integers and display Multiplication
+14.3.2. Write a function that reads two integers and returns Multiplication
+14.3.3. Write a function that gets two integers and display Multiplication
+14.3.3. Write a function that gets two integers and returns Multiplication
 
-14.8. Write a function that gets three integers and returns maximum
-14.9. Write a function that gets three integers and returns minimum
-14.10. Write a function that gets three integers and returns median
+14.4.1. Write a function that reads two integers and display Division
+14.4.2. Write a function that reads two integers and returns Division
+14.4.3. Write a function that gets two integers and display Division
+14.4.3. Write a function that gets two integers and returns Division
 
-14.11. Write a function that gets length and width of a rectangle and returns area
-14.12. Write a function that gets radius of a circle and returns area
+14.5.1. Write a function that reads two integers and display maximum
+14.5.2. Write a function that reads two integers and returns maximum
+14.5.3. Write a function that gets two integers and display maximum
+14.5.3. Write a function that gets two integers and returns maximum
 
-14.13. Write a function that gets any positive integer and returns it's factorial
-14.14. Write a function that gets any positive integer and returns it's digital sum
-14.15. Write a function that gets any positive integer and returns it's digital root
-14.16. Write a function that gets any positive integer and returns it's reverse
+14.6.1. Write a function that reads two integers and display minimum
+14.6.2. Write a function that reads two integers and returns minimum
+14.6.3. Write a function that gets two integers and display minimum
+14.6.3. Write a function that gets two integers and returns minimum
 
-14.17. Write a function that gets any positive integer and determine it's prime or not
+14.7.1. Write a function that reads three integers and display maximum
+14.7.2. Write a function that reads three integers and returns maximum
+14.7.3. Write a function that gets three integers and display maximum
+14.7.3. Write a function that gets three integers and returns maximum
 
-14.18. Write a function that gets two positive integer(a,b) and returns a to the power b
+14.8.1. Write a function that reads three integers and display minimum
+14.8.2. Write a function that reads three integers and returns minimum
+14.8.3. Write a function that gets three integers and display minimum
+14.8.3. Write a function that gets three integers and returns minimum
 
-14.19. Write a function that gets two positive integer and returns nPr (Permutation)
-14.20. Write a function that gets two positive integer and returns nCr (Combination)
+14.9.1. Write a function that reads three integers and display median
+14.9.2. Write a function that reads three integers and returns median
+14.9.3. Write a function that gets three integers and display median
+14.9.3. Write a function that gets three integers and returns median
 
-14.21. Write a function that gets two positive integer and returns GCD (greatest common divisor)
-14.22. Write a function that gets two positive integer and returns LCM (least common multiple)
 
-14.23. Write a function that gets an array and returns sum
-14.24. Write a function that gets an array and returns average
-14.25. Write a function that gets an array and returns maximum
-14.26. Write a function that gets an array and returns minimum
+14.10. Write a function that gets length and width of a rectangle and returns area
+14.11. Write a function that gets radius of a circle and returns area
 
-14.27. Write a function that searches any number in an array
-14.28. Write a function that sorts an array Ascending
+14.12. Write a function that gets any positive integer and returns it's factorial
+14.13. Write a function that gets any positive integer and returns it's digital sum
+14.14. Write a function that gets any positive integer and returns it's digital root
+14.15. Write a function that gets any positive integer and returns it's reverse
+
+14.16. Write a function that gets any positive integer and determine it's prime or not
+
+14.17. Write a function that gets two positive integer(a,b) and returns a to the power b
+
+14.18. Write a function that gets two positive integer and returns nPr (Permutation)
+14.19. Write a function that gets two positive integer and returns nCr (Combination)
+
+14.20. Write a function that gets two positive integer and returns GCD (greatest common divisor)
+14.21. Write a function that gets two positive integer and returns LCM (least common multiple)
+
+14.22. Write a function that gets an array and returns sum
+14.23. Write a function that gets an array and returns average
+14.24. Write a function that gets an array and returns maximum
+14.25. Write a function that gets an array and returns minimum
+
+14.26. Write a function that searches any number in an array
+14.27. Write a function that sorts an array Ascending
 14.28. Write a function that sorts an array Decending
 
-14.28. Write a function that gets a string and returns it's length
+14.29. Write a function that gets a string and returns it's length
 
