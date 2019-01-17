@@ -768,47 +768,47 @@
 14.1.1. Write a function that reads two integers and display Addition
 14.1.2. Write a function that reads two integers and returns Addition
 14.1.3. Write a function that gets two integers and display Addition
-14.1.3. Write a function that gets two integers and returns Addition
+14.1.4. Write a function that gets two integers and returns Addition
 
 14.2.1. Write a function that reads two integers and display Substraction
 14.2.2. Write a function that reads two integers and returns Substraction
 14.2.3. Write a function that gets two integers and display Substraction
-14.2.3. Write a function that gets two integers and returns Substraction
+14.2.4. Write a function that gets two integers and returns Substraction
 
 14.3.1. Write a function that reads two integers and display Multiplication
 14.3.2. Write a function that reads two integers and returns Multiplication
 14.3.3. Write a function that gets two integers and display Multiplication
-14.3.3. Write a function that gets two integers and returns Multiplication
+14.3.4. Write a function that gets two integers and returns Multiplication
 
 14.4.1. Write a function that reads two integers and display Division
 14.4.2. Write a function that reads two integers and returns Division
 14.4.3. Write a function that gets two integers and display Division
-14.4.3. Write a function that gets two integers and returns Division
+14.4.4. Write a function that gets two integers and returns Division
 
 14.5.1. Write a function that reads two integers and display maximum
 14.5.2. Write a function that reads two integers and returns maximum
 14.5.3. Write a function that gets two integers and display maximum
-14.5.3. Write a function that gets two integers and returns maximum
+14.5.4. Write a function that gets two integers and returns maximum
 
 14.6.1. Write a function that reads two integers and display minimum
 14.6.2. Write a function that reads two integers and returns minimum
 14.6.3. Write a function that gets two integers and display minimum
-14.6.3. Write a function that gets two integers and returns minimum
+14.6.4. Write a function that gets two integers and returns minimum
 
 14.7.1. Write a function that reads three integers and display maximum
 14.7.2. Write a function that reads three integers and returns maximum
 14.7.3. Write a function that gets three integers and display maximum
-14.7.3. Write a function that gets three integers and returns maximum
+14.7.4. Write a function that gets three integers and returns maximum
 
 14.8.1. Write a function that reads three integers and display minimum
 14.8.2. Write a function that reads three integers and returns minimum
 14.8.3. Write a function that gets three integers and display minimum
-14.8.3. Write a function that gets three integers and returns minimum
+14.8.4. Write a function that gets three integers and returns minimum
 
 14.9.1. Write a function that reads three integers and display median
 14.9.2. Write a function that reads three integers and returns median
 14.9.3. Write a function that gets three integers and display median
-14.9.3. Write a function that gets three integers and returns median
+14.9.4. Write a function that gets three integers and returns median
 
 
 14.10. Write a function that gets length and width of a rectangle and returns area
@@ -834,9 +834,13 @@
 14.24. Write a function that gets an array and returns maximum
 14.25. Write a function that gets an array and returns minimum
 
-14.26. Write a function that searches any number in an array
-14.27. Write a function that sorts an array Ascending
-14.28. Write a function that sorts an array Decending
+14.26. Write a function that gets an array and adds 10 to each element
+14.27. Write a function that gets an array and subtract 15 from each element
+14.28. Write a function that gets an array and product each element by 5
 
-14.29. Write a function that gets a string and returns it's length
+14.29. Write a function that searches any number in an array
+14.30. Write a function that sorts an array Ascending
+14.31. Write a function that sorts an array Decending
+
+14.32. Write a function that gets a string and returns it's length
 
