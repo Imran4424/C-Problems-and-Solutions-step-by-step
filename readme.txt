@@ -56,6 +56,9 @@
 2.16. Write a program that read a number and mod by four using bitwise AND
 2.17. Write a program that read a number and mod by eight using bitwise AND
 
+2.18. Write a C program to swap the values of two variables using temporary variable
+2.19. Write a C program to swap the values of two variables without using temporary variable
+
 
 
 3. Math.h
@@ -87,7 +90,7 @@
 4. Conditional Logic
 
 4.1. Write a program that read an integer and prints odd or even
-4.2. Write a program that read an integer and prints odd or even
+4.2. Write a program to determine whether a number is divisible by 5 or not
 
 4.3. Write a program that read two numbers and display maximum
 4.4. Write a program that read two numbers and display minimum
