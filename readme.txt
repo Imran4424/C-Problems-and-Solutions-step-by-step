@@ -105,13 +105,15 @@
 4.8. Write a program that read mark and display pass or fail
 4.9. Write a program that read mark and display result in grade
 4.10. Write a program that read any year and display its leap year or not
-4.11. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
-			ax^2 + bx + c = 0
 
-4.12. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should
+4.11. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should
       be checked
 
-4.13. Write a C program to generate a simple arithmetic calculator
+4.12. Write a C program to input any character and check whether it is alphabet, digit or special character
+
+4.13. Write a C program to check whether a character is uppercase or lowercase alphabet
+
+4.14. Write a C program to generate a simple arithmetic calculator
 	
 	hints: 
 	enter two numbers: 6 5
@@ -121,6 +123,12 @@
 	3. Multiply
 	4. Divide
 
+4.15. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
+			ax^2 + bx + c = 0
+
+4.16. Write a C program to input angles of a triangle and check whether triangle is valid or not
+4.17. Write a C program to input all sides of a triangle and check whether triangle is valid or not
+4.18. Write a C program to check whether the triangle is equilateral, isosceles or scalene triangle
 
 5. Switch
 
@@ -579,28 +587,28 @@
 
 8.6. Write a program that read any positive integer and reverse the positive number
 
-8.6. Write a program that read any decimal number and display equivalent binary number
-8.7. Write a program that read any decimal number and display equivalent octal number
-8.8. Write a program that read any decimal number and display equivalent hexadecimal number
+8.7. Write a program that read any decimal number and display equivalent binary number
+8.8. Write a program that read any decimal number and display equivalent octal number
+8.9. Write a program that read any decimal number and display equivalent hexadecimal number
 
-8.9. Write a program that read two numbers and display GCD(greatest common divisor)
-8.10. Write a program that read two numbers and display LCM(least common multiple)
-8.11. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
+8.10. Write a program that read two numbers and display GCD(greatest common divisor)
+8.11. Write a program that read two numbers and display LCM(least common multiple)
+8.12. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
 
-8.12. Write a program that read two numbers(n,r) and display nPr(Permutation) 
-8.13. Write a program that read two numbers(n,r) and display nCr(Combination)
+8.13. Write a program that read two numbers(n,r) and display nPr(Permutation) 
+8.14. Write a program that read two numbers(n,r) and display nCr(Combination)
 
-8.14. Write a program that read any integer and display its digital root (using loop)
-8.15. Write a program that read any integer and test that is prime or not
+8.15. Write a program that read any integer and display its digital root (using loop)
+8.16. Write a program that read any integer and test that is prime or not
 
-8.16. Write a program that prints all prime numbers from 1 to n
-8.17. Write a program that prints all prime numbers from m to n (m > n)
-8.18. Write a program that count total prime numbers from 1 to n
+8.17. Write a program that prints all prime numbers from 1 to n
+8.18. Write a program that prints all prime numbers from m to n (m > n)
+8.19. Write a program that count total prime numbers from 1 to n
 
-8.19. Write a program that displays first n prime numbers.
-8.20. Write a program that displays first n Fibonacci
-8.21. Write a program that displays all fibonacci numbers from 1 to n
-8.22. Write a program that determine a number fibonacci or not
+8.20. Write a program that displays first n prime numbers.
+8.21. Write a program that displays first n Fibonacci
+8.22. Write a program that displays all fibonacci numbers from 1 to n
+8.23. Write a program that determine a number fibonacci or not
 
 8.24. Write a C program to find out all the palindrome numbers in the range 0 to 10000. Also print the
       palindrome numbers
