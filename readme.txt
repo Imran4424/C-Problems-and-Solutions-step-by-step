@@ -577,6 +577,8 @@
 8.4. Write a program that read a positive integer and display sum of its digit
 8.5. Write a program that read any positive integer and display reverse
 
+8.6. Write a program that read any positive integer and reverse the positive number
+
 8.6. Write a program that read any decimal number and display equivalent binary number
 8.7. Write a program that read any decimal number and display equivalent octal number
 8.8. Write a program that read any decimal number and display equivalent hexadecimal number
@@ -599,6 +601,23 @@
 8.20. Write a program that displays first n Fibonacci
 8.21. Write a program that displays all fibonacci numbers from 1 to n
 8.22. Write a program that determine a number fibonacci or not
+
+8.24. Write a C program to find out all the palindrome numbers in the range 0 to 10000. Also print the
+      palindrome numbers
+
+      Hint: If a positive integer and its reverse are same then the number is called a palindrome.
+            242 is parildrome because 242 = 242 (reversed but still same) 
+
+
+8.25. Write a C program to find out the perfect numbers in the range 0 to 10000. Also print them
+
+      Hint: a positive integer that is equal to the sum of its proper divisors.
+            The smallest perfect number is 6, which is the sum of 1, 2 and 3
+
+8.26. Write a C program to find out the strong numbers in the range 0 to 10000. Also print them
+
+      Hint: Write a C program to find out the strong numbers in the range 0 to 10000. Also print them.
+            145 is strong number. Since, 1!+4!+5! = 145.
 
 9. goto, break, continue
 
