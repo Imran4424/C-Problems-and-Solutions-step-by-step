@@ -842,5 +842,26 @@
 14.30. Write a function that sorts an array Ascending
 14.31. Write a function that sorts an array Decending
 
-14.32. Write a function that gets a string and returns it's length
+14.32. Write a C program to check whether a number is even or odd using functions
+14.33. Write a C program to check whether a number is prime or not using functions
+14.34. Write a C program to check whether a number is palindrome or not using functions
+14.35. Write a C program to check whether a number is perfect or not using functions
+14.36. Write a C program to check whether a number is strong or not using functions
 
+14.37. Write a C program to find all prime numbers between a given interval using functions.
+14.38. Write a C program to find all palindrome numbers between a given interval using functions.
+14.39. Write a C program to find all perfect numbers between given a interval using functions.
+14.40. Write a C program to find all strong numbers between given a interval using functions.
+
+14.41. Write a function that gets a string and returns it's length
+14.42. Write a function that gets a string and reverse all characters
+
+14.43. Write a function that gets a string and convert it to uppercase
+14.44. Write a function that gets a string and convert it to lowercase
+14.45. Write a function that gets a string and copy to another string
+
+14.46. Write a function that gets two string and compares them
+14.47. Write a function that gets two string and concatenates (adds) them
+ 
+
+15. Recursion
