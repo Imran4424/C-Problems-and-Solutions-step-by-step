@@ -87,21 +87,22 @@
 4. Conditional Logic
 
 4.1. Write a program that read an integer and prints odd or even
+4.2. Write a program that read an integer and prints odd or even
 
-4.2. Write a program that read two numbers and display maximum
-4.3. Write a program that read two numbers and display minimum
+4.3. Write a program that read two numbers and display maximum
+4.4. Write a program that read two numbers and display minimum
 
-4.4. Write a program that read three numbers and display maximum
-4.5. Write a program that read three numbers and display minimum
-4.6. Write a program that read three numbers and display medium
+4.5. Write a program that read three numbers and display maximum
+4.6. Write a program that read three numbers and display minimum
+4.7. Write a program that read three numbers and display medium
 
-4.7. Write a program that read mark and display pass or fail
-4.8. Write a program that read mark and display result in grade
-4.9. Write a program that read any year and display its leap year or not
-4.10. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
+4.8. Write a program that read mark and display pass or fail
+4.9. Write a program that read mark and display result in grade
+4.10. Write a program that read any year and display its leap year or not
+4.11. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
 			ax^2 + bx + c = 0
 
-4.11. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should
+4.12. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should
       be checked
 
 
