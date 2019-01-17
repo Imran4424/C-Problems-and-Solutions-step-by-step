@@ -135,6 +135,11 @@
 5.1. Write a program that read a digit and diplay by spelling
 5.2. Write a program that read any number and display equivalent roman number
 
+5.3. Write a C program to print day of week name using switch case
+5.4. Write a C program print total number of days in a month using switch case
+
+5.5. Write a C program to create Simple Calculator using switch case
+
 
 
 6. Series
