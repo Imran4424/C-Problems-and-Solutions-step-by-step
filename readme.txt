@@ -586,53 +586,64 @@
 8.2. Write down a program that can take a lower bound i and an upper bound n and then find out the summation of
      those numbers which are divisible by 3 from i to n.
 
-8.3. Write a program that read a positive integer and display its factorial
-8.4. Write a program that read a positive integer and display sum of its digit
-8.5. Write a program that read any positive integer and display reverse
+8.3. Write a C program to print multiplication table of any number
 
-8.6. Write a program that read any positive integer and reverse the positive number
 
-8.7. Write a program that read any decimal number and display equivalent binary number
-8.8. Write a program that read any decimal number and display equivalent octal number
-8.9. Write a program that read any decimal number and display equivalent hexadecimal number
+8.4. Write a program that read a positive integer and display its factorial
+8.5. Write a program that read a positive integer and display sum of its digit
 
-8.10. Write a program that read two numbers and display GCD(greatest common divisor)
-8.11. Write a program that read two numbers and display LCM(least common multiple)
-8.12. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
+8.6. Write a C program to find first and last digit of a number
+8.7. Write a C program to find sum of first and last digit of a number
+8.8. Write a C program to swap first and last digits of a number
 
-8.13. Write a program that read two numbers(n,r) and display nPr(Permutation) 
-8.14. Write a program that read two numbers(n,r) and display nCr(Combination)
+8.9. Write a program that read any positive integer and display reverse
 
-8.15. Write a program that read any integer and display its digital root (using loop)
-8.16. Write a program that read any integer and test that is prime or not
+8.10. Write a program that read any positive integer and reverse the positive number
 
-8.17. Write a program that prints all prime numbers from 1 to n
-8.18. Write a program that prints all prime numbers from m to n (m > n)
-8.19. Write a program that count total prime numbers from 1 to n
+8.11. Write a C program to find one's complement of a binary number
+8.12. Write a C program to find two's complement of a binary number
 
-8.20. Write a program that displays first n prime numbers.
-8.21. Write a program that displays first n Fibonacci
-8.22. Write a program that displays all fibonacci numbers from 1 to n
-8.23. Write a program that determine a number fibonacci or not
+8.13. Write a program that read any decimal number and display equivalent binary number
+8.14. Write a program that read any decimal number and display equivalent octal number
+8.15. Write a program that read any decimal number and display equivalent hexadecimal number
 
-8.24. Write a C program to find out all the palindrome numbers in the range 0 to 10000. Also print the
+8.16. Write a program that read two numbers and display GCD(greatest common divisor)
+8.17. Write a program that read two numbers and display LCM(least common multiple)
+8.18. Write a program that read two numbers(x,y) and display x^y (x power y) using loop
+
+8.19. Write a program that read two numbers(n,r) and display nPr(Permutation) 
+8.20. Write a program that read two numbers(n,r) and display nCr(Combination)
+
+8.21. Write a program that read any integer and display its digital root (using loop)
+8.22. Write a program that read any integer and test that is prime or not
+
+8.23. Write a program that prints all prime numbers from 1 to n
+8.24. Write a program that prints all prime numbers from m to n (m > n)
+8.25. Write a program that count total prime numbers from 1 to n
+
+8.26. Write a program that displays first n prime numbers.
+8.27. Write a program that displays first n Fibonacci
+8.28. Write a program that displays all fibonacci numbers from 1 to n
+8.29. Write a program that determine a number fibonacci or not
+
+8.30. Write a C program to find out all the palindrome numbers in the range 0 to 10000. Also print the
       palindrome numbers
 
       Hint: If a positive integer and its reverse are same then the number is called a palindrome.
             242 is parildrome because 242 = 242 (reversed but still same) 
 
 
-8.25. Write a C program to find out the perfect numbers in the range 0 to 10000. Also print them
+8.31. Write a C program to find out the perfect numbers in the range 0 to 10000. Also print them
 
       Hint: a positive integer that is equal to the sum of its proper divisors.
             The smallest perfect number is 6, which is the sum of 1, 2 and 3
 
-8.26. Write a C program to find out the strong numbers in the range 0 to 10000. Also print them
+8.32. Write a C program to find out the strong numbers in the range 0 to 10000. Also print them
 
       Hint: Write a C program to find out the strong numbers in the range 0 to 10000. Also print them.
             145 is strong number. Since, 1!+4!+5! = 145.
 
-8.27. Write a C program to check if an integer (entered by the user) can be expressed as the sum of two prime
+8.33. Write a C program to check if an integer (entered by the user) can be expressed as the sum of two prime
       numbers. Also show all of the possible combinations
 
       Hint: Enter a positive integer: 34
@@ -641,6 +652,7 @@
 		34 = 11 + 23
 		34 = 17 + 17
 
+8.34. Write a C program to print Pascal triangle upto n rows
 
 
 9. goto, break, continue
