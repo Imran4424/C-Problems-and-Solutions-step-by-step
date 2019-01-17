@@ -619,6 +619,17 @@
       Hint: Write a C program to find out the strong numbers in the range 0 to 10000. Also print them.
             145 is strong number. Since, 1!+4!+5! = 145.
 
+8.27. Write a C program to check if an integer (entered by the user) can be expressed as the sum of two prime
+      numbers. Also show all of the possible combinations
+
+      Hint: Enter a positive integer: 34
+		34 = 3 + 31
+		34 = 5 + 29
+		34 = 11 + 23
+		34 = 17 + 17
+
+
+
 9. goto, break, continue
 
 
