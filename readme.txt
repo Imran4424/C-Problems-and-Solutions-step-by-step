@@ -111,6 +111,16 @@
 4.12. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should
       be checked
 
+4.13. Write a C program to generate a simple arithmetic calculator
+	
+	hints: 
+	enter two numbers: 6 5
+	select the menu:
+	1. Add
+	2. Subtract
+	3. Multiply
+	4. Divide
+
 
 5. Switch
 
