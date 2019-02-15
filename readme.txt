@@ -925,3 +925,9 @@
 		4 5 6 7
 		5 6 7 8 9
 
+
+
+16. Pointer
+
+16.1. Write a program that read any number and display it with pointer variables.
+16.1. Write a program that read any number and change it with a pointer variable then display it.
