@@ -103,7 +103,7 @@
 
 4.5. Write a program that read three numbers and display maximum
 4.6. Write a program that read three numbers and display minimum
-4.7. Write a program that read three numbers and display medium
+4.7. Write a program that read three numbers and display mediam
 
 4.8. Write a program that read mark and display pass or fail
 4.9. Write a program that read mark and display result in grade
@@ -930,4 +930,32 @@
 16. Pointer
 
 16.1. Write a program that read any number and display it with pointer variables.
-16.1. Write a program that read any number and change it with a pointer variable then display it.
+16.2. Write a program that read any number and change it with a pointer variable then display it.
+
+16.3. Write a void function that gets two numbers and adds them, then display the result within main
+      function. (x + y)
+
+16.4. Write a void function that gets two numbers and substract them, then display the result within main
+      function. (x - y)
+
+16.5. Write a void function that gets two numbers and multiply them, then display the result within main
+      function. (x * y)
+
+16.6. Write a void function that gets two numbers and divide them, then display the result within main
+      function. (x / y)
+
+16.6. Write a void function that gets two numbers and determine maximum, then display the result within main
+      function.
+
+16.6. Write a void function that gets two numbers and determine minimum, then display the result within main
+      function.
+
+16.6. Write a void function that gets three numbers and determine maximum, then display the result within main
+      function.
+
+16.6. Write a void function that gets three numbers and determine minimum, then display the result within main
+      function.
+
+16.6. Write a void function that gets three numbers and determine median, then display the result within main
+      function.
+
