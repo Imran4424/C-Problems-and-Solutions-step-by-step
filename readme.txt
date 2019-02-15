@@ -968,3 +968,5 @@
 16.14. Write a void function that gets a number and reverse it, then display the result 
        within main function.
 
+16.15. Write a program that read an array and display it. access the array with pointers not with indexing
+       operators
