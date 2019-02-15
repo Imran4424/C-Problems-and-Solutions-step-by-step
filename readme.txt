@@ -62,6 +62,9 @@
 2.20. Write a program that read two numbers and display maximum using ternary operator
 2.21. Write a program that read two numbers and display minimum using ternary operator
 
+2.22. Write a C program for swapping two numbers with temp variables
+2.23. Write a C program for swapping two numbers without temp variables
+
 
 
 3. Math.h
@@ -640,10 +643,18 @@
 
 8.32. Write a C program to find out the strong numbers in the range 0 to 10000. Also print them
 
-      Hint: Write a C program to find out the strong numbers in the range 0 to 10000. Also print them.
+      Hint: 
             145 is strong number. Since, 1!+4!+5! = 145.
 
-8.33. Write a C program to check if an integer (entered by the user) can be expressed as the sum of two prime
+8.33. Write a C program to find out the armstrong numbers in the range 0 to 10000. Also print them
+
+      Hint: 
+            371 is armstrong number. Since, 371 three digits, so, 3^3 + 7^3 + 1^3 = 371.
+            1634 is armstrong number. Since, 1634 four digits, so, 1^4 + 6^4 + 3^4 + 4^4 = 1634.
+
+            all single digit numbers are armstrong number.
+
+8.34. Write a C program to check if an integer (entered by the user) can be expressed as the sum of two prime
       numbers. Also show all of the possible combinations
 
       Hint: Enter a positive integer: 34
@@ -652,7 +663,7 @@
 		34 = 11 + 23
 		34 = 17 + 17
 
-8.34. Write a C program to print Pascal triangle upto n rows
+8.35. Write a C program to print Pascal triangle upto n rows
 
 
 9. goto, break, continue
