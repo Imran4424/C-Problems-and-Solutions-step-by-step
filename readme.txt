@@ -880,9 +880,48 @@
 15.1. Write a recursive function that gets any positive integer and returns it's factorial
 15.2. Write a recursive function that returns nth Fibonacci number.
 
-15.3. Write a recursive function that prints the Fibonacci series.
-15.4. Write a recursive function that prints 4 12 20 28 series up to 10.
+15.3. Write a recursive function that prints 50 to 100.
+15.4. Write a recursive function that prints the Fibonacci series.
+15.5. Write a recursive function that prints 4 12 20 28 series up to 10.
 
-15.5. Write a recursive function to calculate the series: 1 + 3 + 5 + 7 + ... + n
-15.6. Write a recursive function to calculate the series: 1^2 + 2^2 + 3^2 + 4^2 + ... + n^2
-15.7. Write a recursive function to calculate the series: 1^1 + 2^2 + 3^3 + 4^4 + ... + n^n
+15.6. Write a recursive function to calculate the series: 1 + 3 + 5 + 7 + ... + n
+15.7. Write a recursive function to calculate the series: 1^2 + 2^2 + 3^2 + 4^2 + ... + n^2
+15.8. Write a recursive function to calculate the series: 1^1 + 2^2 + 3^3 + 4^4 + ... + n^n
+
+
+15.9. Write recursive functions to build the following pyramid
+
+		1
+		1 2
+		1 2 3
+
+15.10. Write recursive functions to build the following pyramid
+
+		1
+		2 2
+		3 3 3
+
+15.11. Write recursive functions to build the following pyramid
+
+		1
+		0 0
+		1 1 1
+		0 0 0 0
+		1 1 1 1 1
+
+15.12. Write recursive functions to build the following pyramid
+
+		1
+		1 0
+		1 0 1
+		1 0 1 0
+		1 0 1 0 1
+
+15.13. Write recursive functions to build the following pyramid
+
+		1
+		2 3
+		3 4 5
+		4 5 6 7
+		5 6 7 8 9
+
