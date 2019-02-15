@@ -968,5 +968,15 @@
 16.14. Write a void function that gets a number and reverse it, then display the result 
        within main function.
 
-16.15. Write a program that read an array and display it. access the array with pointers not with indexing
+16.15. Write a void function that gets an array and find average, then display the result 
+       within main function.
+
+16.16. Write a program that read an array and display it. access the array with pointers not with indexing
        operators[].
+
+
+
+
+17. Structure
+
+17.1. 
