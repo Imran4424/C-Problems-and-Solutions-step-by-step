@@ -944,18 +944,27 @@
 16.6. Write a void function that gets two numbers and divide them, then display the result within main
       function. (x / y)
 
-16.6. Write a void function that gets two numbers and determine maximum, then display the result within main
+16.7. Write a void function that gets two numbers and determine maximum, then display the result within main
       function.
 
-16.6. Write a void function that gets two numbers and determine minimum, then display the result within main
+16.8. Write a void function that gets two numbers and determine minimum, then display the result within main
       function.
 
-16.6. Write a void function that gets three numbers and determine maximum, then display the result within main
+16.9. Write a void function that gets three numbers and determine maximum, then display the result within main
       function.
 
-16.6. Write a void function that gets three numbers and determine minimum, then display the result within main
+16.10. Write a void function that gets three numbers and determine minimum, then display the result within main
       function.
 
-16.6. Write a void function that gets three numbers and determine median, then display the result within main
+16.11. Write a void function that gets three numbers and determine median, then display the result within main
       function.
+
+16.12. Write a void function that gets a number and calculate factorial, then display the result within main
+      function.
+
+16.13. Write a void function that gets a number and calculate sum of the digit, then display the result 
+       within main function.
+
+16.14. Write a void function that gets a number and reverse it, then display the result 
+       within main function.
 
