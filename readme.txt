@@ -979,7 +979,10 @@
 
 17. Structure
 
-17.1. 
+17.1. Write a program that read and display any students name, roll, and total mark using structure
+17.2. Write a program that read and display some students name, roll, and total mark using structure
+
+17.3. 
 
 
 18. File
