@@ -969,4 +969,4 @@
        within main function.
 
 16.15. Write a program that read an array and display it. access the array with pointers not with indexing
-       operators
+       operators[].
