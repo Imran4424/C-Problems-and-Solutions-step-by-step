@@ -979,10 +979,13 @@
 
 17. Structure
 
-17.1. Write a program that read and display any students name, roll, and total mark using structure
-17.2. Write a program that read and display some students name, roll, and total mark using structure
+17.1. Write a program that read and display any student's name, roll, and total mark using structure
+17.2. Write a program that read and display some student's name, roll, and total mark using structure
 
-17.3. 
+17.3. Write a program that read and display basic information of a departments students using structure
+
+17.4. Write a program that read and display some student's name, roll, subject wise mark, total mark and
+      average using structure.
 
 
 18. File
