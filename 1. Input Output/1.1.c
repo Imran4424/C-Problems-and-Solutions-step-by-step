@@ -19,5 +19,9 @@ int main()
 
 	'\n' is an escape sequence which prints a new line
 
-    between the double quotation of printf(""),
+    between the double quotation("") of printf("")
+
+    you can write anything and that will print
+
+    try write yourself a paragraph see how it works
 */
