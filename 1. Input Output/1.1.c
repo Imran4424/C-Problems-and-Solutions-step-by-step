@@ -8,8 +8,8 @@
 int main()
 {
 
-	printf("SHAH MD IMRAN HOSSAIN\n");
-		
+	printf("SHAH MD. IMRAN HOSSAIN\n");
+
 	return 0;
 }
 
@@ -18,4 +18,6 @@ int main()
 	which is a member of stdio.h header file
 
 	'\n' is an escape sequence which prints a new line
+
+    between the double quotation of printf(""),
 */
