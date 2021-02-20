@@ -62,9 +62,6 @@
 2.20. Write a program that read two numbers and display maximum using ternary operator
 2.21. Write a program that read two numbers and display minimum using ternary operator
 
-2.22. Write a C program for swapping two numbers with temp variables
-2.23. Write a C program for swapping two numbers without temp variables
-
 
 
 3. Math.h
