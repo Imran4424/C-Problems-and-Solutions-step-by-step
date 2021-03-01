@@ -82,7 +82,7 @@
 3.12. Write a program that read a value n and display sec inverse(n)
 3.13. Write a program that read a value n and display cosec inverse(n)
 
-3.14. Write a program that read two numbers x,y and display the value of X^Y
+3.14. Write a program that read two numbers base, power and display the value of base^power
 3.15. Write a program that read any number and display it's square root
 3.16. Write a program that read any number x and display e^x
 3.17. Write a program that read any number x and display log(x)
