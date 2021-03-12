@@ -16,17 +16,17 @@ int main(int argc, char const *argv[])
 	/// There are two identity law available, one for addition, one for multiplication
 	///
 	/// addition identity law, 
-	/// 						X + 0 = X
-	///							5 + 0 = 5
-	/// 						8 + 0 = 8
+	/// 			X + 0 = X
+	///			5 + 0 = 5
+	/// 			8 + 0 = 8
 	///
 	/// that means if we add 0 with some value, then the value will be unchanged that's why
 	/// 0 is called identity value for addition.
 	/// 
 	/// multiplication identity law,
-	/// 							X . 1 = X
-	///								3 . 1 = 3
-	/// 							6 . 1 = 6
+	/// 				X . 1 = X
+	///				3 . 1 = 3
+	/// 				6 . 1 = 6
 	///
 	/// that means if we multiply 1 with some value, then the value will be unchanged that's why
 	/// 1 is called identity value for multiplication
