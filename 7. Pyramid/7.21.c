@@ -19,6 +19,10 @@ int main(int argc, char const *argv[])
 	printf("\n\n");
 
 	for (int r = 1; r <= n; r++) {
+		for (int s = 1; s <= n - r; s++) {
+			printf("  ");
+		}
+
 		for (int c = 1; c <= r; c++) {
 			printf("%d ", c);
 		}
