@@ -20,10 +20,10 @@ int main(int argc, char const *argv[])
 
 	for (int r = 1; r <= n; r++) {
 		for (int c = 1; c <= r; c++) {
-			printf("%d\n", c);
+			printf("%d ", c);
 		}
 		printf("\n");
 	}
-	
+
 	return 0;
 }
