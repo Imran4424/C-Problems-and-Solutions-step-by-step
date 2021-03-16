@@ -1,10 +1,10 @@
 /**
-	7.3.
+	7.11.
+		1 2 3 4 5
+		1 2 3 4
+		1 2 3
+		1 2
 		1
-		0 0
-		1 1 1
-		0 0 0 0
-		1 1 1 1 1
 */
 
 #include <stdio.h>
@@ -17,16 +17,12 @@ int main(int argc, char const *argv[])
 
 	printf("\n\n");
 
-	for (int r = 1; r <= n; r++) {
+	for (int r = n; r >= 1; r--) {
 		for (int c = 1; c <= r; c++) {
-			if(r % 2 == 0) {
-				printf("0 ");
-			} else {
-				printf("1 ");
-			}
+			printf("%d ", c);
 		}
 		printf("\n");
 	}
-
+	
 	return 0;
 }
