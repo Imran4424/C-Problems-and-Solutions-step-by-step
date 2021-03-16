@@ -151,7 +151,7 @@
 6.5. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
 
 6.6. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n(n+1)
-6.7. Write a program to calculate the series: 2.1 + 5.3 + 8.5 + ... + n
+6.7. Write a program to calculate the series: 2.1 + 5.3 + 8.5 + ... + n(n - nth)
 6.8. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n(n+2)
 
 6.9. Write a program to calculate the series: 1^2 + 2^2 + 3^2 + ... + n^2
