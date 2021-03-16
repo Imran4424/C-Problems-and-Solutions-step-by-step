@@ -576,6 +576,110 @@
 
 3 space between digits
 
+7.40. The following program asks the user to enter a number n. It then prints a picture showing a triangle
+that points to the right that has 2n - 1 rows and n columns. For example, if n = 4 the program would print
+	
+		*
+		**
+		***
+		****
+		***
+		**
+		*
+
+7.41. The following program asks the user to enter a number n. It then prints a picture showing a
+downward pointing triangle with n rows and 2n - 1 columns. For example, if n = 4 it would print
+
+		*******
+		 *****
+		  ***
+		   *
+
+
+7.42. Write a complete C program that asks the user for a number n of triangles to print. It then
+prints n triangles made of X symbols, one above another. Each triangle has n rows and every second 
+triangle is upside down. The triangles should be separated by lines of - symbols.
+
+For example, here is the output from the program where the user specifies 4 for n.
+
+		X
+		XX
+		XXX
+		XXXX
+		----
+		XXXX
+		 XXX
+		  XX
+		   X
+		----
+		X
+		XX
+		XXX
+		XXXX
+		----
+		XXXX
+		 XXX
+		  XX
+		   X
+		----
+
+7.43. Write a complete C program that asks the user for a number n and then prints a large grid
+of small squares. Each small square has size (n − 1) × (n − 1) and contains ∗ symbols. The large grid should have n rows each of which contains n small squares, with a blank column separating these squares. The rows of small squares in the large grid should be separated by blank rows.
+For example, if the user specified 3 for n, the program would print as follows:
+
+		** ** **
+		** ** **
+
+		** ** **
+		** ** **
+
+		** ** **
+		** ** **
+
+7.44. Write a complete C++ program that asks the user for a number n and prints n squares made of
+∗ symbols each with an upward diagonal stripe made of O symbols. Each square has height n and width n and the
+squares form a horizontal sequence.
+For example, if the user specified 4 for n, the program would print as follows:
+
+***O ***O ***O ***O
+**O* **O* **O* **O*
+*O** *O** *O** *O**
+O*** O*** O*** O***
+
+7.45. Write a complete C program that asks the user to enter a positive integer n. If n is not positive
+the program should print a message Not positive. Enter another: and continue to do this until the user 
+enters a positive integer. Then the program should print n squares of *s with decreasing size that begin 
+with an n × n square and end with a 1 × 1 square. The right hand edges of the squares should line up.
+
+Enter a positive integer n: -3
+Not positive. Enter another: 4
+
+		****
+		****
+		****
+		****
+		 ***
+		 ***
+		 ***
+		  **
+		  **
+		   *
+
+7.46. Write a complete C program that asks the user to enter an odd positive integer n. If n is illegal
+the program must terminate at once. Otherwise the program should print squares of *s. that begin with an n × n
+square and end with a 1 × 1 square and such that the sizes of squares decrease by 2 as they go down the page. The right hand edges of the squares should line up.
+
+Enter an odd positive integer n: 5
+
+		*****
+		*****
+		*****
+		*****
+		*****
+		  ***
+		  ***
+		  ***
+		    *
 
 
 8.  Loop
