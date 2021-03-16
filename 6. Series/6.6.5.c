@@ -12,10 +12,12 @@ int main(int argc, char const *argv[])
 	printf("Enter the nthNumber\n");
 	scanf("%d", &nthNumber);
 
-	int i, j;
+	int i = 1;
 
-	for (i = 1, j = 2; i <= nthNumber && j <= nthNumber + 1; i = i + 1, j = j + 1) {
-		sum = sum + (i * j);
+	while(i <= nthNumber) {
+		sum = sum + (i * (i + 1));
+
+		i++;
 	}
 
 	printf("The series sum is - %d\n", sum);

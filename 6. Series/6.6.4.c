@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
 
 	int i, j;
 
-	for (i = 1, j = 2; i <= nthNumber && j <= nthNumber + 1; i = i + 1, j = j + 1) {
+	for (i = 1, j = 2; i <= nthNumber; i++, j++) {
 		sum = sum + (i * j);
 	}
 

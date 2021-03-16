@@ -12,10 +12,8 @@ int main(int argc, char const *argv[])
 	printf("Enter the nthNumber\n");
 	scanf("%d", &nthNumber);
 
-	int i, j;
-
-	for (i = 1, j = 2; i <= nthNumber && j <= nthNumber + 1; i = i + 1, j = j + 1) {
-		sum = sum + (i * j);
+	for (int i = 1; i <= nthNumber; i++) {
+		sum += i * (i + 1);
 	}
 
 	printf("The series sum is - %d\n", sum);
