@@ -169,6 +169,16 @@
 6.18. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n(n+2)(n+4)(n+6)
 
 
+Mini Section - Traversing loop in reverse order
+
+6.51. Write a program to print all numbers from 100 to 1.
+6.52. Write a program to print all even numbers from 100 to 1.
+6.53. Write a program to print all odd numbers from 100 to 1.
+6.54. Write a program to print all number from n to 1.
+6.55. Write a program to print all number from n to 1.
+6.56. Write a program to print all number who is divible by 5 from n to 1.
+6.57. Write a program to print all number who is divible by y from n to 1 (y < n).
+
 
 7. Pyramid
 
