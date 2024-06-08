@@ -175,9 +175,8 @@ Mini Section - Traversing loop in reverse order
 6.52. Write a program to print all even numbers from 100 to 1.
 6.53. Write a program to print all odd numbers from 100 to 1.
 6.54. Write a program to print all number from n to 1.
-6.55. Write a program to print all number from n to 1.
-6.56. Write a program to print all number who is divible by 5 from n to 1.
-6.57. Write a program to print all number who is divible by y from n to 1 (y < n).
+6.55. Write a program to print all number who is divible by 5 from n to 1.
+6.56. Write a program to print all number who is divible by y from n to 1 (y < n).
 
 
 7. Pyramid
@@ -349,21 +348,41 @@ Mini Section - Traversing loop in reverse order
 
 7.25.
 			1
+		       22
+		      333
+		     4444
+		    55555
+
+0 space between digits
+
+
+7.25.1
+			1
+		      2 2
+		    3 3 3
+		  4 4 4 4
+		5 5 5 5 5
+
+1 space between digits in both spacer and main loop
+
+
+7.25.2
+			1
 		       2 2
 		      3 3 3
 		     4 4 4 4
 		    5 5 5 5 5
 
-1 space between digits
+1 space between digits in just main loop
 
-7.25.2.
+7.25.3.
 			1
 		      2   2
 		    3   3   3
 		  4   4   4   4
 		5   5   5   5   5
 
-3 space between digits
+3 space between digits in just main loop
 
 7.26.
 			    A
@@ -372,7 +391,7 @@ Mini Section - Traversing loop in reverse order
 			 D D D D
 			E E E E E
 
-1 space between digits
+1 space between digits in just main loop
 
 7.26.2.
 			A
@@ -381,7 +400,7 @@ Mini Section - Traversing loop in reverse order
 		  D   D   D   D
 		E   E   E   E   E
 
-3 space between digits
+3 space between digits in just main loop
 
 7.27.
 				A
@@ -405,7 +424,7 @@ Mini Section - Traversing loop in reverse order
 			   B B
 			    A
 
-1 space between digits
+1 space between digits in just main loop
 
 7.28.2.
 			A
@@ -418,7 +437,7 @@ Mini Section - Traversing loop in reverse order
 		      B   B
 			A
 
-3 space between digits
+3 space between digits in just main loop
 
 7.29.
 			    1
@@ -431,7 +450,7 @@ Mini Section - Traversing loop in reverse order
 			   2 2
 			    1
 
-1 space between digits
+1 space between digits in just main loop
 
 
 
@@ -446,7 +465,7 @@ Mini Section - Traversing loop in reverse order
 			    2   2
 				1
 
-3 space between digits
+3 space between digits in both spacer and main loop
 
 7.30.
 		1
@@ -503,7 +522,7 @@ Mini Section - Traversing loop in reverse order
 						2   3   2
 						1
 
-3 space between digits
+3 space between digits in both spacer and main loop
 
 7.35.
 						    1
@@ -520,7 +539,7 @@ Mini Section - Traversing loop in reverse order
 						2   3   2
 						    1
 
-3 space between digits
+3 space between digits in both spacer and main loop
 
 7.36.
 					        1
@@ -537,7 +556,7 @@ Mini Section - Traversing loop in reverse order
 					      2 3 2
 				                1
 
-1 space between digits
+1 space between digits in both spacer and main loop
 
 7.36.2
 							1
@@ -554,7 +573,7 @@ Mini Section - Traversing loop in reverse order
 						    2   3   2
 							1
 
-3 space between digits
+3 space between digits in both spacer and main loop
 
 7.37.
 		 1
@@ -563,7 +582,7 @@ Mini Section - Traversing loop in reverse order
 		 7   8   9   10
 		11  12  13   14   15
 
-3 space between digits
+3 space between digits in both spacer and main loop
 
 7.38.
 			1
@@ -573,7 +592,7 @@ Mini Section - Traversing loop in reverse order
 			5  10  10   5   1
 			6  15  20  15   6   1
 
-3 space between digits
+3 space between digits in both spacer and main loop
 
 7.39.
 			1
@@ -584,7 +603,7 @@ Mini Section - Traversing loop in reverse order
 			1   5  10  10   5   1
 			1   6  15  20  15   6   1
 
-3 space between digits
+3 space between digits in both spacer and main loop
 
 7.40. The following program asks the user to enter a number n. It then prints a picture showing a triangle
 that points to the right that has 2n - 1 rows and n columns. For example, if n = 4 the program would print
