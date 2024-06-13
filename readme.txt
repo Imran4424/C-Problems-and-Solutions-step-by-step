@@ -798,6 +798,21 @@ Enter an odd positive integer n: 5
 
 9. goto, break, continue
 
+9.1. Write a program that finds the first multiple of 7 between 50 and 100.
+9.2. Write a program that prints all odd numbers between 1 and 20.
+9.3. Write a program that sums integers entered by the user until the user enters a negative number.
+
+9.4. Write a program that uses nested loops to find a pair of numbers (i, j) such that i ranges from 1 to 5 and j ranges from 1 to 5, and their product is 12.
+
+9.5. Write a program that prints a multiplication table from 1 to 5, but skips the multiples of 3.
+9.6. Write a program that finds the first prime number greater than 50.
+
+9.7. Write a program that calculates the sum of all numbers between 1 and 100 that are not multiples of 5
+
+9.8. Write a program that repeatedly asks the user to enter a positive integer. If the user enters a non-positive integer, prompt them again. The program should stop asking for input when the user has entered 5 positive integers and then print the sum of these integers.
+
+9.9. Write a program that reads numbers from the user until the user enters a zero. The program should print the sum of all positive numbers entered and the count of negative numbers entered.
+
 
 10. One Dimensional Array
 
