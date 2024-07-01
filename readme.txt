@@ -748,6 +748,10 @@ Enter an odd positive integer n: 5
 8.20. Write a program that read two numbers(n,r) and display nCr(Combination)
 
 8.21. Write a program that read any integer and display its digital root (using loop)
+Hint:
+	If the number is 12345, then digital root will be 6
+	(Add all the digits of the number until summed value is in single digit) 
+
 8.22. Write a program that read any integer and test that is prime or not
 
 8.23. Write a program that prints all prime numbers from 1 to n
