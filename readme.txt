@@ -1031,7 +1031,7 @@ Hint:
 
 15.3. Write a recursive function that prints 50 to 100.
 15.4. Write a recursive function that prints the Fibonacci series.
-15.5. Write a recursive function that prints 4 12 20 28 series up to 10.
+15.5. Write a recursive function that prints 4 12 20 28 series up to 10th.
 
 15.6. Write a recursive function to calculate the series: 1 + 3 + 5 + 7 + ... + n
 15.7. Write a recursive function to calculate the series: 1^2 + 2^2 + 3^2 + 4^2 + ... + n^2
